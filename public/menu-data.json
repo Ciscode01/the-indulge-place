@@ -1,1 +1,1986 @@
-{"items":[{"id":"3655e5ea-4576-4331-9fce-5a314ac609b5","name":"Basmati White Rice","description":"Main Restaurant Menu","price":1100,"image_url":"https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122293740944206657","featured":false,"category":"Rice & Rice Specialties"},{"id":"48bc4333-a12f-4a4f-bf1b-62f8cf0bc499","name":"Chinese Rice","description":"Main Restaurant Menu","price":1250,"image_url":"https://kikifoodies.com/wp-content/uploads/2024/11/ET5B7665-7.jpg","featured":false,"category":"Rice & Rice Specialties"},{"id":"2c730b89-56be-4fa0-b46f-666e76f1e381","name":"Coconut Rice","description":"Main Restaurant Menu","price":1000,"image_url":"https://cheflolaskitchen.com/wp-content/uploads/2015/10/Coconut-Rice-6-1-scaled.jpg","featured":false,"category":"Rice & Rice Specialties"},{"id":"d9e6e593-5c06-4aa0-b4aa-e26627dad656","name":"Fried Rice","description":"Main Restaurant Menu","price":1000,"image_url":"https://kikifoodies.com/wp-content/uploads/2024/11/ET5B7665-7.jpg","featured":false,"category":"Rice & Rice Specialties"},{"id":"dd51ec66-7c4a-48cf-8fcf-01860c01a1f2","name":"Goat Meat Jollof Rice","description":"Main Restaurant Menu","price":1500,"image_url":"https://kikifoodies.com/wp-content/uploads/2025/03/ET5B8958-4.jpeg","featured":false,"category":"Rice & Rice Specialties"},{"id":"edffcd63-381a-4af3-bd5c-42a3e0d1b6a3","name":"Jollof Rice","description":"Main Restaurant Menu","price":1000,"image_url":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Jollof_Rice_with_Stew.jpg","featured":false,"category":"Rice & Rice Specialties"},{"id":"685202a7-2b9b-4f8a-be8e-292681b775d2","name":"Native Rice","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"a5edf8ef-12e7-408f-b260-9cc88cc9fbf7","name":"Ofada Rice","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"7833d942-90da-4249-a532-78dfd5b51fc1","name":"Prawn Rice","description":"Main Restaurant Menu","price":3250,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"a1f6a77d-8fca-4fd4-9fb4-b1bc3deca898","name":"Rice & Beans","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"feab3546-9783-47d8-a114-7e27c3f15e8c","name":"Rice Combo","description":"Main Restaurant Menu","price":3000,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"254cc242-c698-433e-8398-3a630e5cb018","name":"Shrimps Fried Rice","description":"Main Restaurant Menu","price":1750,"image_url":"","featured":false,"category":"Rice & Rice Specialties"},{"id":"4400ef0a-0b02-47bc-a2de-ec8a071019f9","name":"Alfredo Chicken Pasta","description":"Main Restaurant Menu","price":6500,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"c1927693-e124-4250-8846-be4f84e0527a","name":"Alfredo Prawn Pasta","description":"Main Restaurant Menu","price":8000,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"34f924d2-e397-4bf6-813c-24991aa2f985","name":"Jollof Penne Pasta","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"e545ea1e-79e4-4bb5-982f-e6bf63058c74","name":"Jollof Spaghetti","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"080ad9c3-d0d9-41ba-90e2-7a4edb010894","name":"Prawn Stir-Fry","description":"Main Restaurant Menu","price":5000,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"e3ffc75e-7dd9-41f7-939c-ba028dc86868","name":"Singapore Noodles","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"233873a7-cc77-4b60-b905-72198e064258","name":"Stir-Fry Noodles","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"7b987503-f7f3-4169-928b-9e6ce05c1b19","name":"Stir-Fry Spaghetti","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Pasta & Noodles"},{"id":"3c2c89be-b7b0-4657-9f0b-d8f5ceb9dd5f","name":"Assorted Okro","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"cc930085-ff17-43a2-8fca-9ae43f6564e6","name":"Catfish Pepper Soup","description":"Main Restaurant Menu","price":10000,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"125ddd65-3660-44fe-8c2a-c5ddca198d6a","name":"Efo Riro","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"db35a0d5-105b-444b-9467-bef9481e2894","name":"Egg Sauce","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"995978e9-767b-4338-9201-4d89ada82e50","name":"Egusi Soup","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"32ab7e01-a6a0-4d70-a8e6-7cdba56c63ac","name":"Goat Meat Okro","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"d8facb24-b322-4674-96c4-1c26114c1061","name":"Ofada Sauce","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"eda9b121-c09d-482a-8b27-034a1e626fba","name":"Ogbono Soup","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"83efcd68-6a31-4c2c-8197-b5143f4f0869","name":"Okra Soup","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"49e27646-31bf-479d-8a54-3391ffde5cbe","name":"Seafood Okro","description":"Main Restaurant Menu","price":2000,"image_url":"","featured":false,"category":"Soups & Sauces"},{"id":"5bb424cd-9be2-4afd-80dd-14bbc2cf5705","name":"Beef","description":"Main Restaurant Menu","price":2000,"image_url":"","featured":false,"category":"Proteins"},{"id":"d3027573-b922-4bfc-8fe5-a0123dd93f0e","name":"Beef Skewer","description":"Main Restaurant Menu","price":1700,"image_url":"","featured":false,"category":"Proteins"},{"id":"bab3819b-358e-405e-8ee4-a48e6e3e3e5a","name":"Big Chicken","description":"Main Restaurant Menu","price":5500,"image_url":"","featured":false,"category":"Proteins"},{"id":"dc5d882d-9d37-4ef3-8cac-f845b9b9c918","name":"Goat Meat","description":"Main Restaurant Menu","price":3000,"image_url":"","featured":false,"category":"Proteins"},{"id":"d63b262f-b9e8-46a9-ab2a-b7dd31c01724","name":"Hake / Panla Fish (Big)","description":"Main Restaurant Menu","price":3000,"image_url":"","featured":false,"category":"Proteins"},{"id":"87edd1f9-eb8a-464e-9701-50ae51880d88","name":"Hake / Panla Fish (Small)","description":"Main Restaurant Menu","price":2500,"image_url":"","featured":false,"category":"Proteins"},{"id":"c8cdb73b-1e67-4617-b84b-5dd5e0519447","name":"Small Chicken","description":"Main Restaurant Menu","price":2500,"image_url":"","featured":false,"category":"Proteins"},{"id":"af13cf20-9997-447e-9e0c-e904f9008a46","name":"Small Turkey","description":"Main Restaurant Menu","price":3500,"image_url":"","featured":false,"category":"Proteins"},{"id":"91185c50-1653-4761-bcc3-67a958c7b6b4","name":"Amala","description":"Main Restaurant Menu","price":1200,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"642e25e1-ee60-457c-9e65-3a97e0d55287","name":"Boiled Plantain","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"58f776cc-3db5-470a-aa9c-0c3ca3f1607d","name":"Boiled Yam","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"ec970e98-e5c4-46e7-bcb9-93f72cc6e5b2","name":"Coleslaw","description":"Main Restaurant Menu","price":1000,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"6247503b-c5a4-47d9-832b-bb089ea35e01","name":"Diced Plantain","description":"Main Restaurant Menu","price":1000,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"e42642a5-a9ee-4221-834b-4b48c8b814e9","name":"Eba","description":"Main Restaurant Menu","price":1000,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"f0276ec0-ae7b-46bd-8568-7e5688f072b6","name":"Potato","description":"Main Restaurant Menu","price":2000,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"198a4f9b-493b-4e6b-9797-3076da5c06f5","name":"Poundo Yam","description":"Main Restaurant Menu","price":1500,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"91b99a9d-57c5-4e3c-987e-fc25e698f374","name":"Semolina","description":"Main Restaurant Menu","price":1200,"image_url":"","featured":false,"category":"Swallows & Sides"},{"id":"1befe984-0fb6-4a9e-a8f3-22198e24e003","name":"Beans & Plantain Porridge","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Porridge & Local Specialties"},{"id":"c83c4e58-6878-4b0c-963a-de7fd62fd287","name":"Plantain Porridge","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Porridge & Local Specialties"},{"id":"f8ffe056-037f-4346-8f88-aa559ab68343","name":"Sweet Potato Porridge","description":"Main Restaurant Menu","price":1250,"image_url":"","featured":false,"category":"Porridge & Local Specialties"},{"id":"ebf6f1a3-eeee-4911-8d29-ea1f4cff34ba","name":"Yamarita","description":"Main Restaurant Menu","price":2000,"image_url":"","featured":false,"category":"Porridge & Local Specialties"},{"id":"69b2fd0b-b99f-424d-8eb0-c5663204b977","name":"Boiled Egg","description":"Main Restaurant Menu","price":500,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"5c952e02-5c38-4138-b685-09f2e60de6e9","name":"Pancakes","description":"Main Restaurant Menu","price":3500,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"5780389f-303a-462e-abd9-eb8fba48120e","name":"Puff Puff","description":"Main Restaurant Menu","price":1000,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"46fd079f-61cf-4957-9a59-79c96d512cd9","name":"Samosa","description":"Main Restaurant Menu","price":500,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"b7cea9f0-e9d4-4562-9a8e-ca8e2e2879a0","name":"Shawarma","description":"Main Restaurant Menu","price":4500,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"f006b058-0b3b-4d6e-92c7-ebb1e10f5681","name":"Small Chops","description":"Main Restaurant Menu","price":3000,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"6a117d4e-798a-44ce-a9ee-27b505f63c1b","name":"Spring Rolls","description":"Main Restaurant Menu","price":500,"image_url":"","featured":false,"category":"Small Chops, Snacks & Breakfast"},{"id":"6e88bfd9-a977-4618-b88b-fff69f9b2a0d","name":"Asun (Spicy Goat Meat)","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"ae0a266b-0eee-49a2-9369-03e4267d7a6b","name":"Peppered Gizzards","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"28aad608-0be8-4eb0-b1e4-73d779e6518e","name":"Puff Puff","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"41fbc41a-5ba3-4e82-bd97-90bfdfb6a559","name":"Samosa","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"cbf6448f-ed8b-494e-b06a-c977baf8d2a6","name":"Spicy Chicken Wings","description":"Fine Dining Menu","price":8500,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"971eb547-4fa0-4619-8370-6e8ab06834ca","name":"Spring Rolls","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Starters & Appetizers"},{"id":"2741ef49-76c8-458d-b451-c480398334a0","name":"Crispy Samosa","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Pepper Soup"},{"id":"b789d182-1752-4ee5-95cb-30c74c8c1165","name":"Fish Pepper Soup","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Pepper Soup"},{"id":"0f9df436-b130-457c-8074-426d01501a94","name":"Gizzard Pepper Soup","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Pepper Soup"},{"id":"3ac046e6-4eb5-4201-8c21-0a600f619a69","name":"Spicy Goat Meat Pepper Soup","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Pepper Soup"},{"id":"f26bda60-9f3f-4335-b1c6-f7a3050de007","name":"Spicy Sauce Spring Rolls","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Pepper Soup"},{"id":"de34ea04-1dd0-444d-950d-722a15e1a9db","name":"Basmati Fried Rice","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"a0b38510-2eda-4751-97a2-5a358b61f5a4","name":"Coconut Special Rice","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"e6befea1-ad93-4723-89ef-0c67038d5893","name":"Dodo Jollof Rice","description":"Fine Dining Menu","price":9000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"7210f0f6-e0eb-4fef-838e-93ccf18033a7","name":"Goat Meat Jollof Rice","description":"Fine Dining Menu","price":10000,"image_url":"https://kikifoodies.com/wp-content/uploads/2025/03/ET5B8958-4.jpeg","featured":false,"category":"Nigerian Specials"},{"id":"bdf086f1-e228-4df6-b846-840c276d5725","name":"Native Rice","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"e8585801-96be-4050-b239-c85023ed4fd5","name":"Ofada Rice","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"5fc7e2f4-14ce-409d-a2d7-439cecfb6618","name":"Party Smokey Jollof Rice","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"9ec4805d-4963-4186-90a4-40ad13a42b11","name":"Prawn Fried Rice","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"ef6da295-f923-48b8-9e68-42166ae96394","name":"Regular Fried Rice","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"e0043129-0265-45bd-b908-af185eaf9926","name":"Regular Jollof Rice","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"0dc27bcc-6e4b-415c-8b65-13db490b066b","name":"Special Fried Rice","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"25e92a8f-4bdc-40c1-92e2-60472c79f0fb","name":"Steamed White Rice","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"3db7399c-76d4-4261-bd75-c9d462fffa9f","name":"Suya Jollof Rice","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Nigerian Specials"},{"id":"1334201b-e4e5-4693-b99d-1e4170091883","name":"Alfredo Pasta","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"34249f71-b0b8-4c03-a46a-f3e203da89a4","name":"Creamy Pasta","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"72b14cee-5c6d-49a7-8dfe-7f1a35fb02e7","name":"Jollof Pasta","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"b7e507dd-1295-4e14-82d4-f1676cfe0116","name":"Linguine Pasta","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"4fbc8afa-86d3-4e6f-8b0e-0871396ed409","name":"Sausage Pasta","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"738b2851-0d21-480c-a032-c409625d5e6c","name":"Seafood Linguine Pasta","description":"Fine Dining Menu","price":18000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"b0fadd08-f3eb-4248-bd91-24de157d447e","name":"Spaghetti Stir Fry","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"3febe81a-26e4-4e9f-94eb-4e09991eefb8","name":"Tomato Sauce Chicken Pasta","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Pasta Fiesta"},{"id":"1c9a0c39-7ed9-40a3-90f7-bf564f163daa","name":"Crispy Yam Bites & Pepper Dip","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Yam Experience"},{"id":"e055f33d-1b6c-4bbb-97e7-f2668b49bde0","name":"Mini Yam & Chicken Skewers","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Yam Experience"},{"id":"5203c4d4-2247-4243-8de0-b5da3a191790","name":"Yam Balls (Stuffed with Fish/Chicken)","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Yam Experience"},{"id":"bd071085-d6c0-4f5f-a826-bb34bdfd8a90","name":"Classic Fried Yam & Pepper Sauce","description":"Fine Dining Menu","price":6000,"image_url":"","featured":false,"category":"Fried Yam Series"},{"id":"47fa7c1d-03c8-4ca3-b107-2d7bf89b6b92","name":"Fried Yam & Asun (Spicy Goat Meat)","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Fried Yam Series"},{"id":"45b83f87-55b3-437f-aa24-97cf572ece66","name":"Fried Yam & Egg Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Fried Yam Series"},{"id":"586ce681-82c9-4a3a-9f3d-8d87201cf24c","name":"Fried Yam & Peppered Chicken","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Fried Yam Series"},{"id":"8dcdd2bf-d749-4d93-9c5b-705e6372d89f","name":"Fried Yam & Turkey Sauce","description":"Fine Dining Menu","price":18000,"image_url":"","featured":false,"category":"Fried Yam Series"},{"id":"f68933dc-88b0-4c75-987f-544270e35cb0","name":"Boiled Yam & Egg Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Boiled Yam Delights"},{"id":"eaf0a8cb-e3cb-412d-9a1f-b6ddccd7c90b","name":"Boiled Yam & Fish Stew (Croaker/Titus)","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Boiled Yam Delights"},{"id":"d3bb3b2c-69e7-4851-919b-e9dd7b9f70fc","name":"Boiled Yam & Pepper Goat Meat Sauce","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Boiled Yam Delights"},{"id":"d1af7f70-0dbf-44e9-ba19-373882d0af56","name":"Boiled Yam & Vegetable Sauce","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Boiled Yam Delights"},{"id":"8fd2b119-7900-4949-8ca7-e378370a4cbd","name":"Classic Yam Porridge","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Yam Porridge Collections"},{"id":"b2414746-45e0-4284-96ab-8bdaf9a23f7d","name":"Palm Oil-Free Yam Porridge (Healthy Option)","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Yam Porridge Collections"},{"id":"911831ae-9fc8-48bb-8e38-b9734f4a68ca","name":"Porridge with Assorted Meat","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Yam Porridge Collections"},{"id":"a79c74c6-1405-47ca-9d48-a366646e5960","name":"Seafood Yam Porridge (Prawns, Fish)","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Yam Porridge Collections"},{"id":"eec75198-dfe2-4d19-bdc2-6316afc7f6cc","name":"Indulge Supreme Yam Bowl (Yam, Asun, Egg, Special Sauce)","description":"Fine Dining Menu","price":22000,"image_url":"","featured":false,"category":"Signature Indulge"},{"id":"eae58b5e-f5e0-4527-964e-fe311d558097","name":"Loaded Yam Platter (Yam, Egg, Chicken, Sauce)","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Signature Indulge"},{"id":"118cc6d8-9598-4b39-885a-b485aae8fda2","name":"Yam & Sauce Trio (Pepper Sauce, Egg, Veg Sauce)","description":"Fine Dining Menu","price":18000,"image_url":"","featured":false,"category":"Signature Indulge"},{"id":"64ac3255-691b-4d36-b175-0b40a8c33193","name":"Amala + Ewedu + Gbegiri + Beef","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"fddf840f-69ef-45d4-8564-6ae9bb235ac0","name":"Asun (Goat Meat)","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"ad74cb09-4f93-43a4-934a-18c02f56e869","name":"Egg Sauce","description":"Fine Dining Menu","price":4500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"90b8bb7d-935e-458c-be84-bfbf0e6c9746","name":"Extra Yam Portion","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"811cbd72-3757-4138-9f4a-6661fef92065","name":"Fish (Titus/Croaker)","description":"Fine Dining Menu","price":4500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"f28efc5b-9f31-40e9-a55a-f10ba2e5b301","name":"Native Rice (Palm Oil Rice) + Assorted","description":"Fine Dining Menu","price":7000,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"8e7c035a-cc55-4a9b-9cc6-49a3723b7e57","name":"Ofada Rice + Ayamase Sauce","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"936a6fea-2eed-481b-aa6b-d22b49a9c238","name":"Peppered Chicken","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"ee46bb2a-ad78-4c0e-b958-ac7a97a88678","name":"Pounded Yam + Egusi Soup","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"75c25a37-819f-4be6-a808-4ad407de7b85","name":"Pounded Yam + Ogbono Soup","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"e2b46304-e1e0-40f8-8fd6-99e8f2181fcf","name":"White Rice + Stew + Protein","description":"Fine Dining Menu","price":7000,"image_url":"","featured":false,"category":"Sides & Extras"},{"id":"b4aa909c-7e99-4007-b346-47ca727f01f7","name":"Assorted Beef in Sauce","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"8c5d0bcb-4f98-4075-9362-f3d218eefa81","name":"Grilled Chicken","description":"Fine Dining Menu","price":18000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"e6303b4e-f317-49e8-b7af-2baa5c9efe73","name":"Juicy Grilled Turkey","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"dfb699f2-6838-4f07-b237-db0260cca602","name":"Peppered Gizzard","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"a4083537-3694-43b8-b5a7-31fd7f21cbe6","name":"Peppered Turkey","description":"Fine Dining Menu","price":14000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"e062e2c1-9a85-4199-9b48-60748195971f","name":"Sauteed Fish","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"6c904d42-5112-46a6-9320-7aadc6d00191","name":"Spicy Beef","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"88eb5215-6639-4f6c-b94b-5afb2d635704","name":"Spicy Chicken Wings","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Protein Specials"},{"id":"277ec169-d046-4ef8-997e-ffde150aaea7","name":"Assorted Sauce","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Sauces"},{"id":"63ad626f-74b1-487e-b214-8090a3a025f6","name":"Ayamase Sauce","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Sauces"},{"id":"01764250-4501-4558-aa2a-1fa6b7b5622d","name":"Diced Spicy Chicken Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sauces"},{"id":"e59ff04e-ae8a-477e-a7c9-711d450d016e","name":"Egg Sauce Spicy Sauce","description":"Fine Dining Menu","price":7000,"image_url":"","featured":false,"category":"Sauces"},{"id":"b3d3f02a-d2ff-452a-849e-f1f037c6b815","name":"Gizzard Sauce","description":"Fine Dining Menu","price":8500,"image_url":"","featured":false,"category":"Sauces"},{"id":"93474781-9c9a-4b14-bc69-964928a6c485","name":"Palm Oil Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sauces"},{"id":"feb8fd8b-adc9-4d43-9d52-5f0913bd256b","name":"Shredded Beef Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sauces"},{"id":"b5e82496-bc2c-4f10-a65b-cf18526dc7d8","name":"Spicy Sauce","description":"Fine Dining Menu","price":7000,"image_url":"","featured":false,"category":"Sauces"},{"id":"5b7f12ac-4b7c-425e-a5c9-3b82ca1801a4","name":"Tomato Base Chicken Sauce (Fusion)","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sauces"},{"id":"e9b0b796-39c3-4175-a75e-92afff421961","name":"Turkey Sauce","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Sauces"},{"id":"a8103c6a-3ee0-4c55-ad24-56cb25e37e7f","name":"Amala Wrap","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Swallow Options"},{"id":"3c3fd21e-6dbe-491e-bac6-a5e166d35cd7","name":"Pounded Yam","description":"Fine Dining Menu","price":4500,"image_url":"","featured":false,"category":"Swallow Options"},{"id":"d07d23f2-2032-49e5-8be5-de00cd930e38","name":"Semo Wrap","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Swallow Options"},{"id":"e984adfb-8014-4ecc-aa12-3fe9b992f3db","name":"Wheat Wrap","description":"Fine Dining Menu","price":4000,"image_url":"","featured":false,"category":"Swallow Options"},{"id":"07f1d7e2-ddd1-42ee-9031-7c7d5d7016bb","name":"Yellow Garri","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Swallow Options"},{"id":"ef3bce0d-41f9-4a09-9564-576653f52bf4","name":"Edikaikong or Vegetable Soup","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"845418be-4665-42eb-befa-cdb5aaefa8fc","name":"Egusi Soup","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"60afb586-0687-4caa-9340-f71ce7da9178","name":"Ewedu Soup","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Soup Options"},{"id":"7779c20b-978e-43b2-9862-950497b2a6fb","name":"Gbegiri Soup","description":"Fine Dining Menu","price":5000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"cf846600-711c-4613-8ad9-1eddafea3784","name":"Mixed Okro","description":"Fine Dining Menu","price":8500,"image_url":"","featured":false,"category":"Soup Options"},{"id":"f9628bcd-a059-4d2f-a938-acd3bf3d694b","name":"Nigerian Classy Eforiro","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"88f5cb03-e46d-46bd-82ed-fa5fcf6d0a50","name":"Ogbono Soup","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"eb176c3c-30dd-41d0-8342-5718223e32c3","name":"Oha Soup","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Soup Options"},{"id":"e449ea4b-3767-4774-87e7-22924a44a390","name":"Plain Okro","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Soup Options"},{"id":"b2de5b96-dc53-44e9-8900-d943b41ff348","name":"Seafood Okro","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Soup Options"},{"id":"c8ff8882-73a7-4042-8bbc-252c935308a5","name":"White Soup","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Soup Options"},{"id":"b811ecf6-39c4-4546-bfdd-6fb4baa314aa","name":"Assorted Meat Diced Plantain","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Indulge Chef Specials"},{"id":"af824cbc-55be-43c6-bb92-dc83c3a75f05","name":"Chinese Fried Rice (Chicken Sauce, Spring Rolls)","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Indulge Chef Specials"},{"id":"91eb29e5-4e4b-4b30-864c-2a001448fdb2","name":"Noodles, Chicken, Gizdodo","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Indulge Chef Specials"},{"id":"a4bb38c2-f67b-43b3-aadf-6674801f0fa1","name":"Special Jollof Rice","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Indulge Chef Specials"},{"id":"bd9fc4da-4458-4f21-a620-a97de0606fc8","name":"Coleslaw","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Sides"},{"id":"fae84dfb-5fe7-4ad9-8cb1-64a969ebfddb","name":"Extra Beef","description":"Fine Dining Menu","price":4500,"image_url":"","featured":false,"category":"Sides"},{"id":"a1276c47-6e1a-4750-8223-c867e09e4d66","name":"Extra Chicken","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Sides"},{"id":"64969888-18b6-4937-8946-a6bb61a5dc37","name":"Extra Fish","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Sides"},{"id":"ed5268cc-d902-4c3b-b280-f67a583da7f5","name":"Extra Shrimp","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Sides"},{"id":"ff8eeeff-f2a7-49ce-9b23-ec8c6c96fa82","name":"Fried Plantain","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Sides"},{"id":"02dc0fb7-bba7-423f-8e1b-576c877bc1f9","name":"Coca-Cola","description":"Fine Dining Menu","price":2000,"image_url":"","featured":false,"category":"Bottled Drinks"},{"id":"61ee4006-04f6-45df-98c7-9fa692871590","name":"Fanta","description":"Fine Dining Menu","price":2000,"image_url":"","featured":false,"category":"Bottled Drinks"},{"id":"60a71a11-a211-4bf1-832a-e34d44c7e982","name":"Malta Guinness","description":"Fine Dining Menu","price":3000,"image_url":"","featured":false,"category":"Bottled Drinks"},{"id":"ee0ea2c3-c80c-426f-a324-79c7b454f114","name":"Maltina Drink","description":"Fine Dining Menu","price":3000,"image_url":"","featured":false,"category":"Bottled Drinks"},{"id":"6922ad47-1791-45bd-bc08-2dd8640a36c9","name":"Sprite (50cl)","description":"Fine Dining Menu","price":2000,"image_url":"","featured":false,"category":"Bottled Drinks"},{"id":"55ff80be-6fb1-4726-b5d3-87b0f9fe5b8b","name":"Coca-Cola","description":"Fine Dining Menu","price":3000,"image_url":"","featured":false,"category":"Canned Drinks"},{"id":"1421b7e9-3d85-431b-b399-44d0bbce8fc9","name":"Fanta","description":"Fine Dining Menu","price":3000,"image_url":"","featured":false,"category":"Canned Drinks"},{"id":"fc7bd359-b74d-4cc0-874b-1301a1168f2e","name":"Malta Guinness","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Canned Drinks"},{"id":"ae116d2a-b3ba-4544-a40e-63a6f80a1053","name":"Maltina Drink","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Canned Drinks"},{"id":"1b8f69de-f1de-4ba0-b56b-d268a04e26c8","name":"Sprite (50cl)","description":"Fine Dining Menu","price":3000,"image_url":"","featured":false,"category":"Canned Drinks"},{"id":"3bdb6a4c-cc4d-4e2e-9d1b-58e53cb682a8","name":"Chapman","description":"Fine Dining Menu","price":5000,"image_url":"","featured":false,"category":"Juice (Fresh & Packaged)"},{"id":"92f51fab-1bf6-4a62-87b8-d737cf3142aa","name":"Fresh Orange Juice","description":"Fine Dining Menu","price":5000,"image_url":"","featured":false,"category":"Juice (Fresh & Packaged)"},{"id":"7931c606-87f3-49a1-849a-0d51b247ff97","name":"Pineapple Juice","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Juice (Fresh & Packaged)"},{"id":"5da550f4-bcf1-4d1a-829d-20c1f563ef24","name":"Watermelon Juice","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Juice (Fresh & Packaged)"},{"id":"33e57ccd-d3be-42ca-b6fa-5407ed499266","name":"Premium Water (50cl)","description":"Fine Dining Menu","price":1000,"image_url":"","featured":false,"category":"Premium Water"},{"id":"3a9f7cca-5c4f-4eec-a6c2-0c6f52c6d6eb","name":"Premium Water (75cl)","description":"Fine Dining Menu","price":2000,"image_url":"","featured":false,"category":"Premium Water"},{"id":"7a94c73b-9efe-499c-a70d-1931f1b08403","name":"Fresh Fruit Juice","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Specialty Drinks"},{"id":"553210d5-b731-44ea-8bcb-667254a382ba","name":"Milkshakes (Chocolate/Vanilla/Strawberry)","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Specialty Drinks"},{"id":"6648a410-566b-4eeb-881a-a47876b26dbd","name":"Smoothies (Mixed Fruit)","description":"Fine Dining Menu","price":6500,"image_url":"","featured":false,"category":"Specialty Drinks"},{"id":"5fcb0a24-23e5-430a-8b8b-57e7e8d6ba98","name":"Tiger Nut Drink","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Specialty Drinks"},{"id":"6960f744-c903-4158-b32f-49a6bb47bded","name":"Cake Slice","description":"Fine Dining Menu","price":5500,"image_url":"","featured":false,"category":"Desserts"},{"id":"e7b45355-4f3e-4573-a0ac-6c4bf6569bcf","name":"Chin Chin Bowl","description":"Fine Dining Menu","price":3500,"image_url":"","featured":false,"category":"Desserts"},{"id":"8e00da97-da41-417d-a006-72b737568eb8","name":"Coconut Candy","description":"Fine Dining Menu","price":4500,"image_url":"","featured":false,"category":"Desserts"},{"id":"824061af-cb77-4b5b-bbd9-9c3bab897ef6","name":"Ice Cream Cup","description":"Fine Dining Menu","price":5000,"image_url":"","featured":false,"category":"Desserts"},{"id":"58b6d57a-3454-46cf-96fe-b5de4a58b778","name":"Chinese Platter (Rice, Noodles, Chicken, Spring Rolls)","description":"Fine Dining Menu","price":50000,"image_url":"","featured":false,"category":"Platter Options"},{"id":"9e983798-4c88-4e61-94f2-1cb93ed979be","name":"Premium Party Platter","description":"Fine Dining Menu — listed price range: ₦80,000–₦100,000; confirm final price.","price":null,"image_url":"","featured":false,"category":"Platter Options"},{"id":"1e9695ce-f1f6-44f3-b753-a57433e35ff9","name":"Small Chops Platter (Serves 5-10)","description":"Fine Dining Menu","price":35000,"image_url":"","featured":false,"category":"Platter Options"},{"id":"34cad8e1-80d5-4ef5-94c6-9f9264cbcbae","name":"Chicken Corn Soup","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Continentals"},{"id":"5d12388b-de94-4945-8164-23adcb5f5e25","name":"Chicken Spring Rolls","description":"Fine Dining Menu","price":7500,"image_url":"","featured":false,"category":"Continentals"},{"id":"d4926481-e127-4439-8e95-20e19e270694","name":"Crispy Fried Wontons","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Continentals"},{"id":"9ffd25b1-ea31-40f1-8335-c4d4d37cd0d8","name":"Hot & Sour Soup","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Continentals"},{"id":"137c25c4-a572-4e4f-8bc8-82ee0685c602","name":"Shrimp Dumplings","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Continentals"},{"id":"e5451c4a-47d0-4126-abc3-b83099b8e773","name":"Sweet & Sour Chicken Bites","description":"Fine Dining Menu","price":8000,"image_url":"","featured":false,"category":"Continentals"},{"id":"55b06bfe-bd4c-4fc0-9a4b-070bb474db74","name":"Beef Chow Mein","description":"Fine Dining Menu","price":8500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"d18faf67-b791-40ef-9175-e58203f343e0","name":"Chicken Chow Mein","description":"Fine Dining Menu","price":8500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"f62dcb6a-f818-45e6-a88a-4bfe4367bf0d","name":"Chicken Fried Rice","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"0f4b1224-3fb3-46a8-ac39-ec660fcf8efb","name":"Shrimp Fried Rice","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"30008a97-1e59-47bf-a317-e30e919ca836","name":"Stir-Fried Noodles in Chicken","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"3961d21c-0d10-4785-bd38-e6f6dcba67e7","name":"Stir-Fried Noodles in Shrimp","description":"Fine Dining Menu","price":14500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"331d24d9-f656-47a5-a734-821c53b6ff7f","name":"Sweet & Sour Chicken","description":"Fine Dining Menu","price":9500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"d7b14503-703c-460f-84e2-c087ab207ac1","name":"Vegetable Fried Rice","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Continental Specials"},{"id":"c140201a-cefa-490e-a4bc-e04536385170","name":"Chicken Curry Sauce","description":"Fine Dining Menu","price":12000,"image_url":"","featured":false,"category":"Continental Sauces"},{"id":"46d19655-c9dc-46c9-8055-0756aa92142e","name":"Fish in Seasonal Veggies","description":"Fine Dining Menu","price":12500,"image_url":"","featured":false,"category":"Continental Sauces"},{"id":"8683651b-5a03-4952-979f-56172578abd5","name":"Prawn and Veggies Sauce","description":"Fine Dining Menu","price":15000,"image_url":"","featured":false,"category":"Continental Sauces"},{"id":"9a9448fc-afac-4b14-ac40-0408991bba3b","name":"Shredded Beef Chillin Sauce","description":"Fine Dining Menu","price":10000,"image_url":"","featured":false,"category":"Continental Sauces"}],"categories":[{"name":"Rice & Rice Specialties"},{"name":"Pasta & Noodles"},{"name":"Soups & Sauces"},{"name":"Proteins"},{"name":"Swallows & Sides"},{"name":"Porridge & Local Specialties"},{"name":"Small Chops, Snacks & Breakfast"},{"name":"Starters & Appetizers"},{"name":"Pepper Soup"},{"name":"Nigerian Specials"},{"name":"Pasta Fiesta"},{"name":"Yam Experience"},{"name":"Fried Yam Series"},{"name":"Boiled Yam Delights"},{"name":"Yam Porridge Collections"},{"name":"Signature Indulge"},{"name":"Sides & Extras"},{"name":"Protein Specials"},{"name":"Sauces"},{"name":"Swallow Options"},{"name":"Soup Options"},{"name":"Indulge Chef Specials"},{"name":"Sides"},{"name":"Bottled Drinks"},{"name":"Canned Drinks"},{"name":"Juice (Fresh & Packaged)"},{"name":"Premium Water"},{"name":"Specialty Drinks"},{"name":"Desserts"},{"name":"Platter Options"},{"name":"Continentals"},{"name":"Continental Specials"},{"name":"Continental Sauces"}]}
+{
+  "items": [
+    {
+      "id": "3655e5ea-4576-4331-9fce-5a314ac609b5",
+      "name": "Basmati White Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1100,
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122293740944206657",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "48bc4333-a12f-4a4f-bf1b-62f8cf0bc499",
+      "name": "Chinese Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2024/11/ET5B7665-7.jpg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "2c730b89-56be-4fa0-b46f-666e76f1e381",
+      "name": "Coconut Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "https://cheflolaskitchen.com/wp-content/uploads/2015/10/Coconut-Rice-6-1-scaled.jpg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "d9e6e593-5c06-4aa0-b4aa-e26627dad656",
+      "name": "Fried Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2024/11/ET5B7665-7.jpg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "dd51ec66-7c4a-48cf-8fcf-01860c01a1f2",
+      "name": "Goat Meat Jollof Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2025/03/ET5B8958-4.jpeg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "edffcd63-381a-4af3-bd5c-42a3e0d1b6a3",
+      "name": "Jollof Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Jollof_Rice_with_Stew.jpg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "685202a7-2b9b-4f8a-be8e-292681b775d2",
+      "name": "Native Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "https://cookingwithclaudy.com/wp-content/uploads/2024/02/20240118_123250-1-scaled.jpg",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "a5edf8ef-12e7-408f-b260-9cc88cc9fbf7",
+      "name": "Ofada Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ofada_rise_with_fried_plantain_and_beaf.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "7833d942-90da-4249-a532-78dfd5b51fc1",
+      "name": "Prawn Rice",
+      "description": "Main Restaurant Menu",
+      "price": 3250,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagfrkbaYUQsY7P1_JSo-DGbza01ai46D3zkFGHdqRmg&s=10",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "a1f6a77d-8fca-4fd4-9fb4-b1bc3deca898",
+      "name": "Rice & Beans",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "feab3546-9783-47d8-a114-7e27c3f15e8c",
+      "name": "Rice Combo",
+      "description": "Main Restaurant Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "254cc242-c698-433e-8398-3a630e5cb018",
+      "name": "Shrimps Fried Rice",
+      "description": "Main Restaurant Menu",
+      "price": 1750,
+      "image_url": "",
+      "featured": false,
+      "category": "Rice & Rice Specialties"
+    },
+    {
+      "id": "4400ef0a-0b02-47bc-a2de-ec8a071019f9",
+      "name": "Alfredo Chicken Pasta",
+      "description": "Main Restaurant Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "c1927693-e124-4250-8846-be4f84e0527a",
+      "name": "Alfredo Prawn Pasta",
+      "description": "Main Restaurant Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "34f924d2-e397-4bf6-813c-24991aa2f985",
+      "name": "Jollof Penne Pasta",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "e545ea1e-79e4-4bb5-982f-e6bf63058c74",
+      "name": "Jollof Spaghetti",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "080ad9c3-d0d9-41ba-90e2-7a4edb010894",
+      "name": "Prawn Stir-Fry",
+      "description": "Main Restaurant Menu",
+      "price": 5000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "e3ffc75e-7dd9-41f7-939c-ba028dc86868",
+      "name": "Singapore Noodles",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "233873a7-cc77-4b60-b905-72198e064258",
+      "name": "Stir-Fry Noodles",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "7b987503-f7f3-4169-928b-9e6ce05c1b19",
+      "name": "Stir-Fry Spaghetti",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta & Noodles"
+    },
+    {
+      "id": "3c2c89be-b7b0-4657-9f0b-d8f5ceb9dd5f",
+      "name": "Assorted Okro",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "cc930085-ff17-43a2-8fca-9ae43f6564e6",
+      "name": "Catfish Pepper Soup",
+      "description": "Main Restaurant Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "125ddd65-3660-44fe-8c2a-c5ddca198d6a",
+      "name": "Efo Riro",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "db35a0d5-105b-444b-9467-bef9481e2894",
+      "name": "Egg Sauce",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "995978e9-767b-4338-9201-4d89ada82e50",
+      "name": "Egusi Soup",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "32ab7e01-a6a0-4d70-a8e6-7cdba56c63ac",
+      "name": "Goat Meat Okro",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "d8facb24-b322-4674-96c4-1c26114c1061",
+      "name": "Ofada Sauce",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "eda9b121-c09d-482a-8b27-034a1e626fba",
+      "name": "Ogbono Soup",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "83efcd68-6a31-4c2c-8197-b5143f4f0869",
+      "name": "Okra Soup",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "49e27646-31bf-479d-8a54-3391ffde5cbe",
+      "name": "Seafood Okro",
+      "description": "Main Restaurant Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soups & Sauces"
+    },
+    {
+      "id": "5bb424cd-9be2-4afd-80dd-14bbc2cf5705",
+      "name": "Beef",
+      "description": "Main Restaurant Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "d3027573-b922-4bfc-8fe5-a0123dd93f0e",
+      "name": "Beef Skewer",
+      "description": "Main Restaurant Menu",
+      "price": 1700,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "bab3819b-358e-405e-8ee4-a48e6e3e3e5a",
+      "name": "Big Chicken",
+      "description": "Main Restaurant Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "dc5d882d-9d37-4ef3-8cac-f845b9b9c918",
+      "name": "Goat Meat",
+      "description": "Main Restaurant Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "d63b262f-b9e8-46a9-ab2a-b7dd31c01724",
+      "name": "Hake / Panla Fish (Big)",
+      "description": "Main Restaurant Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "87edd1f9-eb8a-464e-9701-50ae51880d88",
+      "name": "Hake / Panla Fish (Small)",
+      "description": "Main Restaurant Menu",
+      "price": 2500,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "c8cdb73b-1e67-4617-b84b-5dd5e0519447",
+      "name": "Small Chicken",
+      "description": "Main Restaurant Menu",
+      "price": 2500,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "af13cf20-9997-447e-9e0c-e904f9008a46",
+      "name": "Small Turkey",
+      "description": "Main Restaurant Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Proteins"
+    },
+    {
+      "id": "91185c50-1653-4761-bcc3-67a958c7b6b4",
+      "name": "Amala",
+      "description": "Main Restaurant Menu",
+      "price": 1200,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "642e25e1-ee60-457c-9e65-3a97e0d55287",
+      "name": "Boiled Plantain",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "58f776cc-3db5-470a-aa9c-0c3ca3f1607d",
+      "name": "Boiled Yam",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "ec970e98-e5c4-46e7-bcb9-93f72cc6e5b2",
+      "name": "Coleslaw",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "6247503b-c5a4-47d9-832b-bb089ea35e01",
+      "name": "Diced Plantain",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "e42642a5-a9ee-4221-834b-4b48c8b814e9",
+      "name": "Eba",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "f0276ec0-ae7b-46bd-8568-7e5688f072b6",
+      "name": "Potato",
+      "description": "Main Restaurant Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "198a4f9b-493b-4e6b-9797-3076da5c06f5",
+      "name": "Poundo Yam",
+      "description": "Main Restaurant Menu",
+      "price": 1500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "91b99a9d-57c5-4e3c-987e-fc25e698f374",
+      "name": "Semolina",
+      "description": "Main Restaurant Menu",
+      "price": 1200,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallows & Sides"
+    },
+    {
+      "id": "1befe984-0fb6-4a9e-a8f3-22198e24e003",
+      "name": "Beans & Plantain Porridge",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Porridge & Local Specialties"
+    },
+    {
+      "id": "c83c4e58-6878-4b0c-963a-de7fd62fd287",
+      "name": "Plantain Porridge",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Porridge & Local Specialties"
+    },
+    {
+      "id": "f8ffe056-037f-4346-8f88-aa559ab68343",
+      "name": "Sweet Potato Porridge",
+      "description": "Main Restaurant Menu",
+      "price": 1250,
+      "image_url": "",
+      "featured": false,
+      "category": "Porridge & Local Specialties"
+    },
+    {
+      "id": "ebf6f1a3-eeee-4911-8d29-ea1f4cff34ba",
+      "name": "Yamarita",
+      "description": "Main Restaurant Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Porridge & Local Specialties"
+    },
+    {
+      "id": "69b2fd0b-b99f-424d-8eb0-c5663204b977",
+      "name": "Boiled Egg",
+      "description": "Main Restaurant Menu",
+      "price": 500,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "5c952e02-5c38-4138-b685-09f2e60de6e9",
+      "name": "Pancakes",
+      "description": "Main Restaurant Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "5780389f-303a-462e-abd9-eb8fba48120e",
+      "name": "Puff Puff",
+      "description": "Main Restaurant Menu",
+      "price": 1000,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "46fd079f-61cf-4957-9a59-79c96d512cd9",
+      "name": "Samosa",
+      "description": "Main Restaurant Menu",
+      "price": 500,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "b7cea9f0-e9d4-4562-9a8e-ca8e2e2879a0",
+      "name": "Shawarma",
+      "description": "Main Restaurant Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "f006b058-0b3b-4d6e-92c7-ebb1e10f5681",
+      "name": "Small Chops",
+      "description": "Main Restaurant Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "6a117d4e-798a-44ce-a9ee-27b505f63c1b",
+      "name": "Spring Rolls",
+      "description": "Main Restaurant Menu",
+      "price": 500,
+      "image_url": "",
+      "featured": false,
+      "category": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "id": "6e88bfd9-a977-4618-b88b-fff69f9b2a0d",
+      "name": "Asun (Spicy Goat Meat)",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "ae0a266b-0eee-49a2-9369-03e4267d7a6b",
+      "name": "Peppered Gizzards",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "28aad608-0be8-4eb0-b1e4-73d779e6518e",
+      "name": "Puff Puff",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "41fbc41a-5ba3-4e82-bd97-90bfdfb6a559",
+      "name": "Samosa",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "cbf6448f-ed8b-494e-b06a-c977baf8d2a6",
+      "name": "Spicy Chicken Wings",
+      "description": "Fine Dining Menu",
+      "price": 8500,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "971eb547-4fa0-4619-8370-6e8ab06834ca",
+      "name": "Spring Rolls",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Starters & Appetizers"
+    },
+    {
+      "id": "2741ef49-76c8-458d-b451-c480398334a0",
+      "name": "Crispy Samosa",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pepper Soup"
+    },
+    {
+      "id": "b789d182-1752-4ee5-95cb-30c74c8c1165",
+      "name": "Fish Pepper Soup",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pepper Soup"
+    },
+    {
+      "id": "0f9df436-b130-457c-8074-426d01501a94",
+      "name": "Gizzard Pepper Soup",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pepper Soup"
+    },
+    {
+      "id": "3ac046e6-4eb5-4201-8c21-0a600f619a69",
+      "name": "Spicy Goat Meat Pepper Soup",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pepper Soup"
+    },
+    {
+      "id": "f26bda60-9f3f-4335-b1c6-f7a3050de007",
+      "name": "Spicy Sauce Spring Rolls",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pepper Soup"
+    },
+    {
+      "id": "de34ea04-1dd0-444d-950d-722a15e1a9db",
+      "name": "Basmati Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "a0b38510-2eda-4751-97a2-5a358b61f5a4",
+      "name": "Coconut Special Rice",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "e6befea1-ad93-4723-89ef-0c67038d5893",
+      "name": "Dodo Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 9000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "7210f0f6-e0eb-4fef-838e-93ccf18033a7",
+      "name": "Goat Meat Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2025/03/ET5B8958-4.jpeg",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "bdf086f1-e228-4df6-b846-840c276d5725",
+      "name": "Native Rice",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "https://cookingwithclaudy.com/wp-content/uploads/2024/02/20240118_123250-1-scaled.jpg",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "e8585801-96be-4050-b239-c85023ed4fd5",
+      "name": "Ofada Rice",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ofada_rise_with_fried_plantain_and_beaf.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "5fc7e2f4-14ce-409d-a2d7-439cecfb6618",
+      "name": "Party Smokey Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "9ec4805d-4963-4186-90a4-40ad13a42b11",
+      "name": "Prawn Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "ef6da295-f923-48b8-9e68-42166ae96394",
+      "name": "Regular Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "e0043129-0265-45bd-b908-af185eaf9926",
+      "name": "Regular Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "0dc27bcc-6e4b-415c-8b65-13db490b066b",
+      "name": "Special Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "25e92a8f-4bdc-40c1-92e2-60472c79f0fb",
+      "name": "Steamed White Rice",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "3db7399c-76d4-4261-bd75-c9d462fffa9f",
+      "name": "Suya Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Nigerian Specials"
+    },
+    {
+      "id": "1334201b-e4e5-4693-b99d-1e4170091883",
+      "name": "Alfredo Pasta",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "34249f71-b0b8-4c03-a46a-f3e203da89a4",
+      "name": "Creamy Pasta",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "72b14cee-5c6d-49a7-8dfe-7f1a35fb02e7",
+      "name": "Jollof Pasta",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "b7e507dd-1295-4e14-82d4-f1676cfe0116",
+      "name": "Linguine Pasta",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "4fbc8afa-86d3-4e6f-8b0e-0871396ed409",
+      "name": "Sausage Pasta",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "738b2851-0d21-480c-a032-c409625d5e6c",
+      "name": "Seafood Linguine Pasta",
+      "description": "Fine Dining Menu",
+      "price": 18000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "b0fadd08-f3eb-4248-bd91-24de157d447e",
+      "name": "Spaghetti Stir Fry",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "3febe81a-26e4-4e9f-94eb-4e09991eefb8",
+      "name": "Tomato Sauce Chicken Pasta",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Pasta Fiesta"
+    },
+    {
+      "id": "1c9a0c39-7ed9-40a3-90f7-bf564f163daa",
+      "name": "Crispy Yam Bites & Pepper Dip",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Experience"
+    },
+    {
+      "id": "e055f33d-1b6c-4bbb-97e7-f2668b49bde0",
+      "name": "Mini Yam & Chicken Skewers",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Experience"
+    },
+    {
+      "id": "5203c4d4-2247-4243-8de0-b5da3a191790",
+      "name": "Yam Balls (Stuffed with Fish/Chicken)",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Experience"
+    },
+    {
+      "id": "bd071085-d6c0-4f5f-a826-bb34bdfd8a90",
+      "name": "Classic Fried Yam & Pepper Sauce",
+      "description": "Fine Dining Menu",
+      "price": 6000,
+      "image_url": "",
+      "featured": false,
+      "category": "Fried Yam Series"
+    },
+    {
+      "id": "47fa7c1d-03c8-4ca3-b107-2d7bf89b6b92",
+      "name": "Fried Yam & Asun (Spicy Goat Meat)",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Fried Yam Series"
+    },
+    {
+      "id": "45b83f87-55b3-437f-aa24-97cf572ece66",
+      "name": "Fried Yam & Egg Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Fried Yam Series"
+    },
+    {
+      "id": "586ce681-82c9-4a3a-9f3d-8d87201cf24c",
+      "name": "Fried Yam & Peppered Chicken",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Fried Yam Series"
+    },
+    {
+      "id": "8dcdd2bf-d749-4d93-9c5b-705e6372d89f",
+      "name": "Fried Yam & Turkey Sauce",
+      "description": "Fine Dining Menu",
+      "price": 18000,
+      "image_url": "",
+      "featured": false,
+      "category": "Fried Yam Series"
+    },
+    {
+      "id": "f68933dc-88b0-4c75-987f-544270e35cb0",
+      "name": "Boiled Yam & Egg Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Boiled Yam Delights"
+    },
+    {
+      "id": "eaf0a8cb-e3cb-412d-9a1f-b6ddccd7c90b",
+      "name": "Boiled Yam & Fish Stew (Croaker/Titus)",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Boiled Yam Delights"
+    },
+    {
+      "id": "d3bb3b2c-69e7-4851-919b-e9dd7b9f70fc",
+      "name": "Boiled Yam & Pepper Goat Meat Sauce",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Boiled Yam Delights"
+    },
+    {
+      "id": "d1af7f70-0dbf-44e9-ba19-373882d0af56",
+      "name": "Boiled Yam & Vegetable Sauce",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Boiled Yam Delights"
+    },
+    {
+      "id": "8fd2b119-7900-4949-8ca7-e378370a4cbd",
+      "name": "Classic Yam Porridge",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Porridge Collections"
+    },
+    {
+      "id": "b2414746-45e0-4284-96ab-8bdaf9a23f7d",
+      "name": "Palm Oil-Free Yam Porridge (Healthy Option)",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Porridge Collections"
+    },
+    {
+      "id": "911831ae-9fc8-48bb-8e38-b9734f4a68ca",
+      "name": "Porridge with Assorted Meat",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Porridge Collections"
+    },
+    {
+      "id": "a79c74c6-1405-47ca-9d48-a366646e5960",
+      "name": "Seafood Yam Porridge (Prawns, Fish)",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Yam Porridge Collections"
+    },
+    {
+      "id": "eec75198-dfe2-4d19-bdc2-6316afc7f6cc",
+      "name": "Indulge Supreme Yam Bowl (Yam, Asun, Egg, Special Sauce)",
+      "description": "Fine Dining Menu",
+      "price": 22000,
+      "image_url": "",
+      "featured": false,
+      "category": "Signature Indulge"
+    },
+    {
+      "id": "eae58b5e-f5e0-4527-964e-fe311d558097",
+      "name": "Loaded Yam Platter (Yam, Egg, Chicken, Sauce)",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Signature Indulge"
+    },
+    {
+      "id": "118cc6d8-9598-4b39-885a-b485aae8fda2",
+      "name": "Yam & Sauce Trio (Pepper Sauce, Egg, Veg Sauce)",
+      "description": "Fine Dining Menu",
+      "price": 18000,
+      "image_url": "",
+      "featured": false,
+      "category": "Signature Indulge"
+    },
+    {
+      "id": "64ac3255-691b-4d36-b175-0b40a8c33193",
+      "name": "Amala + Ewedu + Gbegiri + Beef",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "fddf840f-69ef-45d4-8564-6ae9bb235ac0",
+      "name": "Asun (Goat Meat)",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "ad74cb09-4f93-43a4-934a-18c02f56e869",
+      "name": "Egg Sauce",
+      "description": "Fine Dining Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "90b8bb7d-935e-458c-be84-bfbf0e6c9746",
+      "name": "Extra Yam Portion",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "811cbd72-3757-4138-9f4a-6661fef92065",
+      "name": "Fish (Titus/Croaker)",
+      "description": "Fine Dining Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "f28efc5b-9f31-40e9-a55a-f10ba2e5b301",
+      "name": "Native Rice (Palm Oil Rice) + Assorted",
+      "description": "Fine Dining Menu",
+      "price": 7000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "8e7c035a-cc55-4a9b-9cc6-49a3723b7e57",
+      "name": "Ofada Rice + Ayamase Sauce",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "936a6fea-2eed-481b-aa6b-d22b49a9c238",
+      "name": "Peppered Chicken",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "ee46bb2a-ad78-4c0e-b958-ac7a97a88678",
+      "name": "Pounded Yam + Egusi Soup",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "75c25a37-819f-4be6-a808-4ad407de7b85",
+      "name": "Pounded Yam + Ogbono Soup",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "e2b46304-e1e0-40f8-8fd6-99e8f2181fcf",
+      "name": "White Rice + Stew + Protein",
+      "description": "Fine Dining Menu",
+      "price": 7000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides & Extras"
+    },
+    {
+      "id": "b4aa909c-7e99-4007-b346-47ca727f01f7",
+      "name": "Assorted Beef in Sauce",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "8c5d0bcb-4f98-4075-9362-f3d218eefa81",
+      "name": "Grilled Chicken",
+      "description": "Fine Dining Menu",
+      "price": 18000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "e6303b4e-f317-49e8-b7af-2baa5c9efe73",
+      "name": "Juicy Grilled Turkey",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "dfb699f2-6838-4f07-b237-db0260cca602",
+      "name": "Peppered Gizzard",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "a4083537-3694-43b8-b5a7-31fd7f21cbe6",
+      "name": "Peppered Turkey",
+      "description": "Fine Dining Menu",
+      "price": 14000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "e062e2c1-9a85-4199-9b48-60748195971f",
+      "name": "Sauteed Fish",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "6c904d42-5112-46a6-9320-7aadc6d00191",
+      "name": "Spicy Beef",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "88eb5215-6639-4f6c-b94b-5afb2d635704",
+      "name": "Spicy Chicken Wings",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Protein Specials"
+    },
+    {
+      "id": "277ec169-d046-4ef8-997e-ffde150aaea7",
+      "name": "Assorted Sauce",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "63ad626f-74b1-487e-b214-8090a3a025f6",
+      "name": "Ayamase Sauce",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "01764250-4501-4558-aa2a-1fa6b7b5622d",
+      "name": "Diced Spicy Chicken Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "e59ff04e-ae8a-477e-a7c9-711d450d016e",
+      "name": "Egg Sauce Spicy Sauce",
+      "description": "Fine Dining Menu",
+      "price": 7000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "b3d3f02a-d2ff-452a-849e-f1f037c6b815",
+      "name": "Gizzard Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "93474781-9c9a-4b14-bc69-964928a6c485",
+      "name": "Palm Oil Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "feb8fd8b-adc9-4d43-9d52-5f0913bd256b",
+      "name": "Shredded Beef Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "b5e82496-bc2c-4f10-a65b-cf18526dc7d8",
+      "name": "Spicy Sauce",
+      "description": "Fine Dining Menu",
+      "price": 7000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "5b7f12ac-4b7c-425e-a5c9-3b82ca1801a4",
+      "name": "Tomato Base Chicken Sauce (Fusion)",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "e9b0b796-39c3-4175-a75e-92afff421961",
+      "name": "Turkey Sauce",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Sauces"
+    },
+    {
+      "id": "a8103c6a-3ee0-4c55-ad24-56cb25e37e7f",
+      "name": "Amala Wrap",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallow Options"
+    },
+    {
+      "id": "3c3fd21e-6dbe-491e-bac6-a5e166d35cd7",
+      "name": "Pounded Yam",
+      "description": "Fine Dining Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallow Options"
+    },
+    {
+      "id": "d07d23f2-2032-49e5-8be5-de00cd930e38",
+      "name": "Semo Wrap",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallow Options"
+    },
+    {
+      "id": "e984adfb-8014-4ecc-aa12-3fe9b992f3db",
+      "name": "Wheat Wrap",
+      "description": "Fine Dining Menu",
+      "price": 4000,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallow Options"
+    },
+    {
+      "id": "07f1d7e2-ddd1-42ee-9031-7c7d5d7016bb",
+      "name": "Yellow Garri",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Swallow Options"
+    },
+    {
+      "id": "ef3bce0d-41f9-4a09-9564-576653f52bf4",
+      "name": "Edikaikong or Vegetable Soup",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "845418be-4665-42eb-befa-cdb5aaefa8fc",
+      "name": "Egusi Soup",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "60afb586-0687-4caa-9340-f71ce7da9178",
+      "name": "Ewedu Soup",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "7779c20b-978e-43b2-9862-950497b2a6fb",
+      "name": "Gbegiri Soup",
+      "description": "Fine Dining Menu",
+      "price": 5000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "cf846600-711c-4613-8ad9-1eddafea3784",
+      "name": "Mixed Okro",
+      "description": "Fine Dining Menu",
+      "price": 8500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "f9628bcd-a059-4d2f-a938-acd3bf3d694b",
+      "name": "Nigerian Classy Eforiro",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "88f5cb03-e46d-46bd-82ed-fa5fcf6d0a50",
+      "name": "Ogbono Soup",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "eb176c3c-30dd-41d0-8342-5718223e32c3",
+      "name": "Oha Soup",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "e449ea4b-3767-4774-87e7-22924a44a390",
+      "name": "Plain Okro",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "b2de5b96-dc53-44e9-8900-d943b41ff348",
+      "name": "Seafood Okro",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "c8ff8882-73a7-4042-8bbc-252c935308a5",
+      "name": "White Soup",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Soup Options"
+    },
+    {
+      "id": "b811ecf6-39c4-4546-bfdd-6fb4baa314aa",
+      "name": "Assorted Meat Diced Plantain",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Indulge Chef Specials"
+    },
+    {
+      "id": "af824cbc-55be-43c6-bb92-dc83c3a75f05",
+      "name": "Chinese Fried Rice (Chicken Sauce, Spring Rolls)",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Indulge Chef Specials"
+    },
+    {
+      "id": "91eb29e5-4e4b-4b30-864c-2a001448fdb2",
+      "name": "Noodles, Chicken, Gizdodo",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Indulge Chef Specials"
+    },
+    {
+      "id": "a4bb38c2-f67b-43b3-aadf-6674801f0fa1",
+      "name": "Special Jollof Rice",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Indulge Chef Specials"
+    },
+    {
+      "id": "bd9fc4da-4458-4f21-a620-a97de0606fc8",
+      "name": "Coleslaw",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "fae84dfb-5fe7-4ad9-8cb1-64a969ebfddb",
+      "name": "Extra Beef",
+      "description": "Fine Dining Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "a1276c47-6e1a-4750-8223-c867e09e4d66",
+      "name": "Extra Chicken",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "64969888-18b6-4937-8946-a6bb61a5dc37",
+      "name": "Extra Fish",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "ed5268cc-d902-4c3b-b280-f67a583da7f5",
+      "name": "Extra Shrimp",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "ff8eeeff-f2a7-49ce-9b23-ec8c6c96fa82",
+      "name": "Fried Plantain",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Sides"
+    },
+    {
+      "id": "02dc0fb7-bba7-423f-8e1b-576c877bc1f9",
+      "name": "Coca-Cola",
+      "description": "Fine Dining Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Bottled Drinks"
+    },
+    {
+      "id": "61ee4006-04f6-45df-98c7-9fa692871590",
+      "name": "Fanta",
+      "description": "Fine Dining Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Bottled Drinks"
+    },
+    {
+      "id": "60a71a11-a211-4bf1-832a-e34d44c7e982",
+      "name": "Malta Guinness",
+      "description": "Fine Dining Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Bottled Drinks"
+    },
+    {
+      "id": "ee0ea2c3-c80c-426f-a324-79c7b454f114",
+      "name": "Maltina Drink",
+      "description": "Fine Dining Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Bottled Drinks"
+    },
+    {
+      "id": "6922ad47-1791-45bd-bc08-2dd8640a36c9",
+      "name": "Sprite (50cl)",
+      "description": "Fine Dining Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Bottled Drinks"
+    },
+    {
+      "id": "55ff80be-6fb1-4726-b5d3-87b0f9fe5b8b",
+      "name": "Coca-Cola",
+      "description": "Fine Dining Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Canned Drinks"
+    },
+    {
+      "id": "1421b7e9-3d85-431b-b399-44d0bbce8fc9",
+      "name": "Fanta",
+      "description": "Fine Dining Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Canned Drinks"
+    },
+    {
+      "id": "fc7bd359-b74d-4cc0-874b-1301a1168f2e",
+      "name": "Malta Guinness",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Canned Drinks"
+    },
+    {
+      "id": "ae116d2a-b3ba-4544-a40e-63a6f80a1053",
+      "name": "Maltina Drink",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Canned Drinks"
+    },
+    {
+      "id": "1b8f69de-f1de-4ba0-b56b-d268a04e26c8",
+      "name": "Sprite (50cl)",
+      "description": "Fine Dining Menu",
+      "price": 3000,
+      "image_url": "",
+      "featured": false,
+      "category": "Canned Drinks"
+    },
+    {
+      "id": "3bdb6a4c-cc4d-4e2e-9d1b-58e53cb682a8",
+      "name": "Chapman",
+      "description": "Fine Dining Menu",
+      "price": 5000,
+      "image_url": "",
+      "featured": false,
+      "category": "Juice (Fresh & Packaged)"
+    },
+    {
+      "id": "92f51fab-1bf6-4a62-87b8-d737cf3142aa",
+      "name": "Fresh Orange Juice",
+      "description": "Fine Dining Menu",
+      "price": 5000,
+      "image_url": "",
+      "featured": false,
+      "category": "Juice (Fresh & Packaged)"
+    },
+    {
+      "id": "7931c606-87f3-49a1-849a-0d51b247ff97",
+      "name": "Pineapple Juice",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Juice (Fresh & Packaged)"
+    },
+    {
+      "id": "5da550f4-bcf1-4d1a-829d-20c1f563ef24",
+      "name": "Watermelon Juice",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Juice (Fresh & Packaged)"
+    },
+    {
+      "id": "33e57ccd-d3be-42ca-b6fa-5407ed499266",
+      "name": "Premium Water (50cl)",
+      "description": "Fine Dining Menu",
+      "price": 1000,
+      "image_url": "",
+      "featured": false,
+      "category": "Premium Water"
+    },
+    {
+      "id": "3a9f7cca-5c4f-4eec-a6c2-0c6f52c6d6eb",
+      "name": "Premium Water (75cl)",
+      "description": "Fine Dining Menu",
+      "price": 2000,
+      "image_url": "",
+      "featured": false,
+      "category": "Premium Water"
+    },
+    {
+      "id": "7a94c73b-9efe-499c-a70d-1931f1b08403",
+      "name": "Fresh Fruit Juice",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Specialty Drinks"
+    },
+    {
+      "id": "553210d5-b731-44ea-8bcb-667254a382ba",
+      "name": "Milkshakes (Chocolate/Vanilla/Strawberry)",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Specialty Drinks"
+    },
+    {
+      "id": "6648a410-566b-4eeb-881a-a47876b26dbd",
+      "name": "Smoothies (Mixed Fruit)",
+      "description": "Fine Dining Menu",
+      "price": 6500,
+      "image_url": "",
+      "featured": false,
+      "category": "Specialty Drinks"
+    },
+    {
+      "id": "5fcb0a24-23e5-430a-8b8b-57e7e8d6ba98",
+      "name": "Tiger Nut Drink",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Specialty Drinks"
+    },
+    {
+      "id": "6960f744-c903-4158-b32f-49a6bb47bded",
+      "name": "Cake Slice",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "",
+      "featured": false,
+      "category": "Desserts"
+    },
+    {
+      "id": "e7b45355-4f3e-4573-a0ac-6c4bf6569bcf",
+      "name": "Chin Chin Bowl",
+      "description": "Fine Dining Menu",
+      "price": 3500,
+      "image_url": "",
+      "featured": false,
+      "category": "Desserts"
+    },
+    {
+      "id": "8e00da97-da41-417d-a006-72b737568eb8",
+      "name": "Coconut Candy",
+      "description": "Fine Dining Menu",
+      "price": 4500,
+      "image_url": "",
+      "featured": false,
+      "category": "Desserts"
+    },
+    {
+      "id": "824061af-cb77-4b5b-bbd9-9c3bab897ef6",
+      "name": "Ice Cream Cup",
+      "description": "Fine Dining Menu",
+      "price": 5000,
+      "image_url": "",
+      "featured": false,
+      "category": "Desserts"
+    },
+    {
+      "id": "58b6d57a-3454-46cf-96fe-b5de4a58b778",
+      "name": "Chinese Platter (Rice, Noodles, Chicken, Spring Rolls)",
+      "description": "Fine Dining Menu",
+      "price": 50000,
+      "image_url": "",
+      "featured": false,
+      "category": "Platter Options"
+    },
+    {
+      "id": "9e983798-4c88-4e61-94f2-1cb93ed979be",
+      "name": "Premium Party Platter",
+      "description": "Fine Dining Menu — listed price range: ₦80,000–₦100,000; confirm final price.",
+      "price": null,
+      "image_url": "",
+      "featured": false,
+      "category": "Platter Options"
+    },
+    {
+      "id": "1e9695ce-f1f6-44f3-b753-a57433e35ff9",
+      "name": "Small Chops Platter (Serves 5-10)",
+      "description": "Fine Dining Menu",
+      "price": 35000,
+      "image_url": "",
+      "featured": false,
+      "category": "Platter Options"
+    },
+    {
+      "id": "34cad8e1-80d5-4ef5-94c6-9f9264cbcbae",
+      "name": "Chicken Corn Soup",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "5d12388b-de94-4945-8164-23adcb5f5e25",
+      "name": "Chicken Spring Rolls",
+      "description": "Fine Dining Menu",
+      "price": 7500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "d4926481-e127-4439-8e95-20e19e270694",
+      "name": "Crispy Fried Wontons",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "9ffd25b1-ea31-40f1-8335-c4d4d37cd0d8",
+      "name": "Hot & Sour Soup",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "137c25c4-a572-4e4f-8bc8-82ee0685c602",
+      "name": "Shrimp Dumplings",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "e5451c4a-47d0-4126-abc3-b83099b8e773",
+      "name": "Sweet & Sour Chicken Bites",
+      "description": "Fine Dining Menu",
+      "price": 8000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continentals"
+    },
+    {
+      "id": "55b06bfe-bd4c-4fc0-9a4b-070bb474db74",
+      "name": "Beef Chow Mein",
+      "description": "Fine Dining Menu",
+      "price": 8500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "d18faf67-b791-40ef-9175-e58203f343e0",
+      "name": "Chicken Chow Mein",
+      "description": "Fine Dining Menu",
+      "price": 8500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "f62dcb6a-f818-45e6-a88a-4bfe4367bf0d",
+      "name": "Chicken Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "0f4b1224-3fb3-46a8-ac39-ec660fcf8efb",
+      "name": "Shrimp Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "30008a97-1e59-47bf-a317-e30e919ca836",
+      "name": "Stir-Fried Noodles in Chicken",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "3961d21c-0d10-4785-bd38-e6f6dcba67e7",
+      "name": "Stir-Fried Noodles in Shrimp",
+      "description": "Fine Dining Menu",
+      "price": 14500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "331d24d9-f656-47a5-a734-821c53b6ff7f",
+      "name": "Sweet & Sour Chicken",
+      "description": "Fine Dining Menu",
+      "price": 9500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "d7b14503-703c-460f-84e2-c087ab207ac1",
+      "name": "Vegetable Fried Rice",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Specials"
+    },
+    {
+      "id": "c140201a-cefa-490e-a4bc-e04536385170",
+      "name": "Chicken Curry Sauce",
+      "description": "Fine Dining Menu",
+      "price": 12000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Sauces"
+    },
+    {
+      "id": "46d19655-c9dc-46c9-8055-0756aa92142e",
+      "name": "Fish in Seasonal Veggies",
+      "description": "Fine Dining Menu",
+      "price": 12500,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Sauces"
+    },
+    {
+      "id": "8683651b-5a03-4952-979f-56172578abd5",
+      "name": "Prawn and Veggies Sauce",
+      "description": "Fine Dining Menu",
+      "price": 15000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Sauces"
+    },
+    {
+      "id": "9a9448fc-afac-4b14-ac40-0408991bba3b",
+      "name": "Shredded Beef Chillin Sauce",
+      "description": "Fine Dining Menu",
+      "price": 10000,
+      "image_url": "",
+      "featured": false,
+      "category": "Continental Sauces"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Rice & Rice Specialties"
+    },
+    {
+      "name": "Pasta & Noodles"
+    },
+    {
+      "name": "Soups & Sauces"
+    },
+    {
+      "name": "Proteins"
+    },
+    {
+      "name": "Swallows & Sides"
+    },
+    {
+      "name": "Porridge & Local Specialties"
+    },
+    {
+      "name": "Small Chops, Snacks & Breakfast"
+    },
+    {
+      "name": "Starters & Appetizers"
+    },
+    {
+      "name": "Pepper Soup"
+    },
+    {
+      "name": "Nigerian Specials"
+    },
+    {
+      "name": "Pasta Fiesta"
+    },
+    {
+      "name": "Yam Experience"
+    },
+    {
+      "name": "Fried Yam Series"
+    },
+    {
+      "name": "Boiled Yam Delights"
+    },
+    {
+      "name": "Yam Porridge Collections"
+    },
+    {
+      "name": "Signature Indulge"
+    },
+    {
+      "name": "Sides & Extras"
+    },
+    {
+      "name": "Protein Specials"
+    },
+    {
+      "name": "Sauces"
+    },
+    {
+      "name": "Swallow Options"
+    },
+    {
+      "name": "Soup Options"
+    },
+    {
+      "name": "Indulge Chef Specials"
+    },
+    {
+      "name": "Sides"
+    },
+    {
+      "name": "Bottled Drinks"
+    },
+    {
+      "name": "Canned Drinks"
+    },
+    {
+      "name": "Juice (Fresh & Packaged)"
+    },
+    {
+      "name": "Premium Water"
+    },
+    {
+      "name": "Specialty Drinks"
+    },
+    {
+      "name": "Desserts"
+    },
+    {
+      "name": "Platter Options"
+    },
+    {
+      "name": "Continentals"
+    },
+    {
+      "name": "Continental Specials"
+    },
+    {
+      "name": "Continental Sauces"
+    }
+  ]
+}
