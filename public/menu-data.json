@@ -185,7 +185,7 @@
       "name": "Assorted Okro",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCj4hllDtbZijspgEVRmcs1ru73YfZY6cAwjcXpGgZQ&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -194,7 +194,7 @@
       "name": "Catfish Pepper Soup",
       "description": "Main Restaurant Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwgJS3gBerlv6h8iPpnkfp_Pq-GCsA1mV6uIoE1xDHtw&s",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -203,7 +203,7 @@
       "name": "Efo Riro",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNTzwFcZeg4nAH_lw7Iu5XjYtAolE62RCHXx9cyNgUg&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -212,7 +212,7 @@
       "name": "Egg Sauce",
       "description": "Main Restaurant Menu",
       "price": 1500,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMOZRCvGqRAPc257giQl2EKLck8Amc8LMbuD4NUMkEQ&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -221,7 +221,7 @@
       "name": "Egusi Soup",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7jOqpzzVKx7DVuEe_SjGtj63aW2BEkKFlA74GwM1ag&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -230,7 +230,7 @@
       "name": "Goat Meat Okro",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwvJd75c37YC4mIGw0lmfljd4AZsPySY8DYUrHEz60A&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -239,7 +239,7 @@
       "name": "Ofada Sauce",
       "description": "Main Restaurant Menu",
       "price": 1500,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2icF09CSq1a9cQAL5r_XMMraf1WVPpccIGZMY2UhwFA&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -248,7 +248,7 @@
       "name": "Ogbono Soup",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwhWw7ETMZ4HbFclNiLRy1qzBj3f9R0JgoSC_9lr2jA&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -257,7 +257,7 @@
       "name": "Okra Soup",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszZlgKrX7TgowUk8bwz575_ccfae3w-hKPkg_WkJFaw&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -266,7 +266,7 @@
       "name": "Seafood Okro",
       "description": "Main Restaurant Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNQA_endQpexCC05juNwMTXBPPxgepcKYd93mmg2-cw&s=10",
       "featured": false,
       "category": "Soups & Sauces"
     },
@@ -1004,7 +1004,7 @@
       "name": "Egg Sauce",
       "description": "Fine Dining Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMOZRCvGqRAPc257giQl2EKLck8Amc8LMbuD4NUMkEQ&s=10",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1301,7 +1301,7 @@
       "name": "Egusi Soup",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7jOqpzzVKx7DVuEe_SjGtj63aW2BEkKFlA74GwM1ag&s=10",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1346,7 +1346,7 @@
       "name": "Ogbono Soup",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwhWw7ETMZ4HbFclNiLRy1qzBj3f9R0JgoSC_9lr2jA&s=10",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1373,7 +1373,7 @@
       "name": "Seafood Okro",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNQA_endQpexCC05juNwMTXBPPxgepcKYd93mmg2-cw&s=10",
       "featured": false,
       "category": "Soup Options"
     },
