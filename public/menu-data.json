@@ -113,7 +113,7 @@
       "name": "Alfredo Chicken Pasta",
       "description": "Main Restaurant Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QdnGszG9PcduK3mYh6olrQ9t5JsuEardthVZx6JF1w&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -122,7 +122,7 @@
       "name": "Alfredo Prawn Pasta",
       "description": "Main Restaurant Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-nPr3mDwehDjUzC14Cn13lWLtW5JEmw7RFPfLZBGNA&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -131,7 +131,7 @@
       "name": "Jollof Penne Pasta",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtE84Ndcj6Ijys7i3L_PDgH6kB2K_596DsSZKuZj2PiA&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -140,7 +140,7 @@
       "name": "Jollof Spaghetti",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpAQ2pc2AXplU8eUZyIozm0Pxb8bpzX9y246ZJSM1YQ&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -149,7 +149,7 @@
       "name": "Prawn Stir-Fry",
       "description": "Main Restaurant Menu",
       "price": 5000,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEvo-mcuMzFg1aYsARTn27WOOlaXgj-ICjaRdbwXt5g&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -158,7 +158,7 @@
       "name": "Singapore Noodles",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOe6Zx5EH9kk9QdVsrSeI-TK-sXZAgQ2K7dZOzqLyGZw&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -167,7 +167,7 @@
       "name": "Stir-Fry Noodles",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXAKx0cBFjcM6d-2mI65V67tjPWrdAlELL9L_ql5TcA&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
@@ -176,7 +176,7 @@
       "name": "Stir-Fry Spaghetti",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOHIKNPsqvP7F5bf87W-oO6bx5Q9dNZI8_IydyI2obg&s=10",
       "featured": false,
       "category": "Pasta & Noodles"
     },
