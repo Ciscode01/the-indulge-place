@@ -1,0 +1,12 @@
+import { db } from 'hatchable';
+export const access = 'admin';
+export const methods = ['GET','POST','PUT','DELETE'];
+export default async function(req,res){
+ if(req.method==='GET'){const [items,cats]=await Promise.all([db.query('SELECT m.*,c.name AS category FROM menu_items m LEFT JOIN menu_categories c ON c.id=m.category_id ORDER BY m.created_at DESC'),db.query('SELECT * FROM menu_categories ORDER BY sort_order,name')]);return res.json({items:items.rows,categories:cats.rows});}
+ const b=req.body||{};
+ if(req.method==='POST'){const name=String(b.name||'').trim();if(name.length<2||name.length>120)return res.status(400).json({error:'Enter a valid item name.'});const price=b.price===''||b.price===null||b.price===undefined?null:Number(b.price);if(price!==null&&(!Number.isFinite(price)||price<0))return res.status(400).json({error:'Invalid price.'});const {rows}=await db.query('INSERT INTO menu_items(name,description,price,image_url,category_id,featured,available) VALUES($1,$2,$3,$4,$5,$6,$7) RETURNING *',[name,String(b.description||'').slice(0,500),price,String(b.image_url||'').slice(0,1000),b.category_id||null,!!b.featured,b.available!==false]);return res.status(201).json({item:rows[0]});}
+ const id=String(b.id||'');if(!/^[0-9a-f-]{36}$/i.test(id))return res.status(400).json({error:'Invalid item id.'});
+ if(req.method==='DELETE'){const deleted=await db.query('DELETE FROM menu_items WHERE id=$1 RETURNING id',[id]);if(!deleted.rows.length)return res.status(404).json({error:'Menu item not found.'});return res.json({ok:true});}
+ const name=String(b.name||'').trim();const price=b.price===''||b.price===null||b.price===undefined?null:Number(b.price);if(name.length<2||name.length>120||(price!==null&&(!Number.isFinite(price)||price<0)))return res.status(400).json({error:'Check item name and price.'});
+ const {rows}=await db.query('UPDATE menu_items SET name=$2,description=$3,price=$4,image_url=$5,category_id=$6,featured=$7,available=$8,updated_at=NOW() WHERE id=$1 RETURNING *',[id,name,String(b.description||'').slice(0,500),price,String(b.image_url||'').slice(0,1000),b.category_id||null,!!b.featured,b.available!==false]);if(!rows.length)return res.status(404).json({error:'Menu item not found.'});return res.json({item:rows[0]});
+}

@@ -1,0 +1,4 @@
+import { db } from 'hatchable';
+export const access='admin';
+export const methods=['GET','PUT'];
+export default async function(req,res){if(req.method==='GET'){const {rows}=await db.query('SELECT * FROM customer_orders ORDER BY created_at DESC LIMIT 200');return res.json({orders:rows});}const b=req.body||{};const id=String(b.id||'');const status=String(b.status||'');if(!/^[0-9a-f-]{36}$/i.test(id)||!['new','confirmed','preparing','completed','cancelled'].includes(status))return res.status(400).json({error:'Invalid order update.'});const {rows}=await db.query('UPDATE customer_orders SET status=$2 WHERE id=$1 RETURNING id,status',[id,status]);if(!rows.length)return res.status(404).json({error:'Order not found.'});res.json({order:rows[0]});}
