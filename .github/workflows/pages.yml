@@ -26,6 +26,10 @@ jobs:
       - name: Download restaurant food photography
         run: |
           mkdir -p public/assets
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://chowdeck.com/store/_next/image?q=75&url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-02-19%2FtFyy4VfgmkVEsol1jf94w.PNG&w=3840" -o public/assets/amala.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://cookingwithclaudy.com/wp-content/uploads/2024/02/20240118_123250-1-scaled.jpg" -o public/assets/rice-spread.jpg || cp public/assets/plantain-porridge.jpg public/assets/rice-spread.jpg
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://glovo.dhmedia.io/image/stores-glovo/stores/eacfd32f4edfcd1028cdc90e5a3a38d179fe6ad15a3b3b5df1bdbfa0bbd76c6a?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6MTI4MCwiaGVpZ2h0IjoxMjB9fSx7IndlYnAiOnsicSI6ImxvdyJ9fV0%3D" -o public/assets/pasta-spread.jpg || cp public/assets/small-chops.jpg public/assets/pasta-spread.jpg
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://cdn.shopify.com/s/files/1/0618/7643/7079/files/Egusi_Soup.png?v=1762426628" -o public/assets/egusi-soup.jpg || cp public/assets/small-chops.jpg public/assets/egusi-soup.jpg
@@ -39,10 +43,6 @@ jobs:
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://static.wixstatic.com/media/2b8d29_eebff39dec9d4459a038e5eab39a956d~mv2.png/v1/fill/w_1000%2Ch_1000%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/2b8d29_eebff39dec9d4459a038e5eab39a956d~mv2.png" -o public/assets/desserts.png || cp public/assets/small-chops.jpg public/assets/desserts.png
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://tb-static.uber.com/prod/image-proc/processed_images/381704095581dacc71aa1376ffb22964/fb86662148be855d931b37d6c1e5fcbe.jpeg" -o public/assets/chinese-feast.jpg || cp public/assets/small-chops.jpg public/assets/chinese-feast.jpg
           curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://nativelandmart.com/cdn/shop/files/Tigernut_Date_Relationship.jpg?v=1741576016&width=1946" -o public/assets/tigernut.jpg || cp public/assets/juice.jpg public/assets/tigernut.jpg
-          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
-          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://chowdeck.com/store/_next/image?q=75&url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-02-19%2FtFyy4VfgmkVEsol1jf94w.PNG&w=3840" -o public/assets/amala.jpg
-          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
-          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
           for file in rice-spread.jpg pasta-spread.jpg egusi-soup.jpg pepper-soup.jpg yam-porridge.jpg fried-yam.webp grilled-feast.jpg amala-meal.webp juice.jpg premium-water.webp desserts.png chinese-feast.jpg tigernut.jpg plantain-porridge.jpg amala.jpg small-chops.jpg spring-rolls.jpg; do test -s "public/assets/$file"; done
       - uses: actions/upload-pages-artifact@v3
         with:
