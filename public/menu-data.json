@@ -437,7 +437,7 @@
       "name": "Plantain Porridge",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg",
+      "image_url": "assets/plantain-porridge.jpg",
       "featured": false,
       "category": "Porridge & Local Specialties"
     },
@@ -509,7 +509,7 @@
       "name": "Small Chops",
       "description": "Main Restaurant Menu",
       "price": 3000,
-      "image_url": "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -518,7 +518,7 @@
       "name": "Spring Rolls",
       "description": "Main Restaurant Menu",
       "price": 500,
-      "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg",
+      "image_url": "assets/spring-rolls.jpg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -572,7 +572,7 @@
       "name": "Spring Rolls",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg",
+      "image_url": "assets/spring-rolls.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },

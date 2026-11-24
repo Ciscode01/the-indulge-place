@@ -23,6 +23,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Download full-size food photos
+        run: |
+          mkdir -p public/assets
+          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
+          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
+          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
+          test -s public/assets/plantain-porridge.jpg
+          test -s public/assets/small-chops.jpg
+          test -s public/assets/spring-rolls.jpg
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
