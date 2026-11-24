@@ -27,9 +27,11 @@ jobs:
         run: |
           mkdir -p public/assets
           curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
+          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://chowdeck.com/store/_next/image?q=75&url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-02-19%2FtFyy4VfgmkVEsol1jf94w.PNG&w=3840" -o public/assets/amala.jpg
           curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
           curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
           test -s public/assets/plantain-porridge.jpg
+          test -s public/assets/amala.jpg
           test -s public/assets/small-chops.jpg
           test -s public/assets/spring-rolls.jpg
       - uses: actions/upload-pages-artifact@v3

@@ -347,7 +347,7 @@
       "name": "Amala",
       "description": "Main Restaurant Menu",
       "price": 1200,
-      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1577518527474754&get_thumbnail=1",
+      "image_url": "assets/amala.jpg",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -986,7 +986,7 @@
       "name": "Amala + Ewedu + Gbegiri + Beef",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/amala.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
