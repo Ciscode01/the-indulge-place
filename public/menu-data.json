@@ -293,7 +293,7 @@
       "name": "Big Chicken",
       "description": "Main Restaurant Menu",
       "price": 5500,
-      "image_url": "https://food.goglowonline.com/upload/1762934935goglow%20food%20fried%20rice%203.jpeg",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Proteins"
     },
@@ -419,7 +419,7 @@
       "name": "Semolina",
       "description": "Main Restaurant Menu",
       "price": 1200,
-      "image_url": "https://www.crowncfm.com/_next/image?url=%2Fassets%2Ftenants%2Fcrown-cfm%2Fhero%2Fsupreme-hero-bg.jpg&w=3840&q=75",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -527,7 +527,7 @@
       "name": "Asun (Spicy Goat Meat)",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },
@@ -536,7 +536,7 @@
       "name": "Peppered Gizzards",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },
@@ -563,7 +563,7 @@
       "name": "Spicy Chicken Wings",
       "description": "Fine Dining Menu",
       "price": 8500,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },
@@ -581,7 +581,7 @@
       "name": "Crispy Samosa",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/pepper-soup.jpg",
       "featured": false,
       "category": "Pepper Soup"
     },
@@ -590,7 +590,7 @@
       "name": "Fish Pepper Soup",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/pepper-soup.jpg",
       "featured": false,
       "category": "Pepper Soup"
     },
@@ -599,7 +599,7 @@
       "name": "Gizzard Pepper Soup",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/pepper-soup.jpg",
       "featured": false,
       "category": "Pepper Soup"
     },
@@ -608,7 +608,7 @@
       "name": "Spicy Goat Meat Pepper Soup",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/pepper-soup.jpg",
       "featured": false,
       "category": "Pepper Soup"
     },
@@ -617,7 +617,7 @@
       "name": "Spicy Sauce Spring Rolls",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/pepper-soup.jpg",
       "featured": false,
       "category": "Pepper Soup"
     },
@@ -626,7 +626,7 @@
       "name": "Basmati Fried Rice",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -635,7 +635,7 @@
       "name": "Coconut Special Rice",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -644,7 +644,7 @@
       "name": "Dodo Jollof Rice",
       "description": "Fine Dining Menu",
       "price": 9000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -680,7 +680,7 @@
       "name": "Party Smokey Jollof Rice",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -689,7 +689,7 @@
       "name": "Prawn Fried Rice",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -698,7 +698,7 @@
       "name": "Regular Fried Rice",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -707,7 +707,7 @@
       "name": "Regular Jollof Rice",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -716,7 +716,7 @@
       "name": "Special Fried Rice",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -725,7 +725,7 @@
       "name": "Steamed White Rice",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -734,7 +734,7 @@
       "name": "Suya Jollof Rice",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/rice-spread.jpg",
       "featured": false,
       "category": "Nigerian Specials"
     },
@@ -743,7 +743,7 @@
       "name": "Alfredo Pasta",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -752,7 +752,7 @@
       "name": "Creamy Pasta",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -761,7 +761,7 @@
       "name": "Jollof Pasta",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -770,7 +770,7 @@
       "name": "Linguine Pasta",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -779,7 +779,7 @@
       "name": "Sausage Pasta",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -788,7 +788,7 @@
       "name": "Seafood Linguine Pasta",
       "description": "Fine Dining Menu",
       "price": 18000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -797,7 +797,7 @@
       "name": "Spaghetti Stir Fry",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -806,7 +806,7 @@
       "name": "Tomato Sauce Chicken Pasta",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/pasta-spread.jpg",
       "featured": false,
       "category": "Pasta Fiesta"
     },
@@ -815,7 +815,7 @@
       "name": "Crispy Yam Bites & Pepper Dip",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Yam Experience"
     },
@@ -824,7 +824,7 @@
       "name": "Mini Yam & Chicken Skewers",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Yam Experience"
     },
@@ -833,7 +833,7 @@
       "name": "Yam Balls (Stuffed with Fish/Chicken)",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Yam Experience"
     },
@@ -842,7 +842,7 @@
       "name": "Classic Fried Yam & Pepper Sauce",
       "description": "Fine Dining Menu",
       "price": 6000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Fried Yam Series"
     },
@@ -851,7 +851,7 @@
       "name": "Fried Yam & Asun (Spicy Goat Meat)",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Fried Yam Series"
     },
@@ -860,7 +860,7 @@
       "name": "Fried Yam & Egg Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Fried Yam Series"
     },
@@ -869,7 +869,7 @@
       "name": "Fried Yam & Peppered Chicken",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Fried Yam Series"
     },
@@ -878,7 +878,7 @@
       "name": "Fried Yam & Turkey Sauce",
       "description": "Fine Dining Menu",
       "price": 18000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Fried Yam Series"
     },
@@ -887,7 +887,7 @@
       "name": "Boiled Yam & Egg Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Boiled Yam Delights"
     },
@@ -896,7 +896,7 @@
       "name": "Boiled Yam & Fish Stew (Croaker/Titus)",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Boiled Yam Delights"
     },
@@ -905,7 +905,7 @@
       "name": "Boiled Yam & Pepper Goat Meat Sauce",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Boiled Yam Delights"
     },
@@ -914,7 +914,7 @@
       "name": "Boiled Yam & Vegetable Sauce",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Boiled Yam Delights"
     },
@@ -923,7 +923,7 @@
       "name": "Classic Yam Porridge",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/yam-porridge.jpg",
       "featured": false,
       "category": "Yam Porridge Collections"
     },
@@ -932,7 +932,7 @@
       "name": "Palm Oil-Free Yam Porridge (Healthy Option)",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/yam-porridge.jpg",
       "featured": false,
       "category": "Yam Porridge Collections"
     },
@@ -941,7 +941,7 @@
       "name": "Porridge with Assorted Meat",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "assets/yam-porridge.jpg",
       "featured": false,
       "category": "Yam Porridge Collections"
     },
@@ -950,7 +950,7 @@
       "name": "Seafood Yam Porridge (Prawns, Fish)",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/yam-porridge.jpg",
       "featured": false,
       "category": "Yam Porridge Collections"
     },
@@ -959,7 +959,7 @@
       "name": "Indulge Supreme Yam Bowl (Yam, Asun, Egg, Special Sauce)",
       "description": "Fine Dining Menu",
       "price": 22000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Signature Indulge"
     },
@@ -968,7 +968,7 @@
       "name": "Loaded Yam Platter (Yam, Egg, Chicken, Sauce)",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Signature Indulge"
     },
@@ -977,7 +977,7 @@
       "name": "Yam & Sauce Trio (Pepper Sauce, Egg, Veg Sauce)",
       "description": "Fine Dining Menu",
       "price": 18000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Signature Indulge"
     },
@@ -995,7 +995,7 @@
       "name": "Asun (Goat Meat)",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1013,7 +1013,7 @@
       "name": "Extra Yam Portion",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1022,7 +1022,7 @@
       "name": "Fish (Titus/Croaker)",
       "description": "Fine Dining Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1031,7 +1031,7 @@
       "name": "Native Rice (Palm Oil Rice) + Assorted",
       "description": "Fine Dining Menu",
       "price": 7000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1040,7 +1040,7 @@
       "name": "Ofada Rice + Ayamase Sauce",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1049,7 +1049,7 @@
       "name": "Peppered Chicken",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1058,7 +1058,7 @@
       "name": "Pounded Yam + Egusi Soup",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1067,7 +1067,7 @@
       "name": "Pounded Yam + Ogbono Soup",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1076,7 +1076,7 @@
       "name": "White Rice + Stew + Protein",
       "description": "Fine Dining Menu",
       "price": 7000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Sides & Extras"
     },
@@ -1085,7 +1085,7 @@
       "name": "Assorted Beef in Sauce",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1094,7 +1094,7 @@
       "name": "Grilled Chicken",
       "description": "Fine Dining Menu",
       "price": 18000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1103,7 +1103,7 @@
       "name": "Juicy Grilled Turkey",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1112,7 +1112,7 @@
       "name": "Peppered Gizzard",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1121,7 +1121,7 @@
       "name": "Peppered Turkey",
       "description": "Fine Dining Menu",
       "price": 14000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1130,7 +1130,7 @@
       "name": "Sauteed Fish",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1139,7 +1139,7 @@
       "name": "Spicy Beef",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1148,7 +1148,7 @@
       "name": "Spicy Chicken Wings",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/grilled-feast.jpg",
       "featured": false,
       "category": "Protein Specials"
     },
@@ -1157,7 +1157,7 @@
       "name": "Assorted Sauce",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1166,7 +1166,7 @@
       "name": "Ayamase Sauce",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1175,7 +1175,7 @@
       "name": "Diced Spicy Chicken Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1184,7 +1184,7 @@
       "name": "Egg Sauce Spicy Sauce",
       "description": "Fine Dining Menu",
       "price": 7000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1193,7 +1193,7 @@
       "name": "Gizzard Sauce",
       "description": "Fine Dining Menu",
       "price": 8500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1202,7 +1202,7 @@
       "name": "Palm Oil Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1211,7 +1211,7 @@
       "name": "Shredded Beef Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1220,7 +1220,7 @@
       "name": "Spicy Sauce",
       "description": "Fine Dining Menu",
       "price": 7000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1229,7 +1229,7 @@
       "name": "Tomato Base Chicken Sauce (Fusion)",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1238,7 +1238,7 @@
       "name": "Turkey Sauce",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Sauces"
     },
@@ -1247,7 +1247,7 @@
       "name": "Amala Wrap",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallow Options"
     },
@@ -1256,7 +1256,7 @@
       "name": "Pounded Yam",
       "description": "Fine Dining Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallow Options"
     },
@@ -1265,7 +1265,7 @@
       "name": "Semo Wrap",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallow Options"
     },
@@ -1274,7 +1274,7 @@
       "name": "Wheat Wrap",
       "description": "Fine Dining Menu",
       "price": 4000,
-      "image_url": "",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallow Options"
     },
@@ -1283,7 +1283,7 @@
       "name": "Yellow Garri",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/amala-meal.webp",
       "featured": false,
       "category": "Swallow Options"
     },
@@ -1292,7 +1292,7 @@
       "name": "Edikaikong or Vegetable Soup",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1310,7 +1310,7 @@
       "name": "Ewedu Soup",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1319,7 +1319,7 @@
       "name": "Gbegiri Soup",
       "description": "Fine Dining Menu",
       "price": 5000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1328,7 +1328,7 @@
       "name": "Mixed Okro",
       "description": "Fine Dining Menu",
       "price": 8500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1337,7 +1337,7 @@
       "name": "Nigerian Classy Eforiro",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1355,7 +1355,7 @@
       "name": "Oha Soup",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1364,7 +1364,7 @@
       "name": "Plain Okro",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1382,7 +1382,7 @@
       "name": "White Soup",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/egusi-soup.jpg",
       "featured": false,
       "category": "Soup Options"
     },
@@ -1391,7 +1391,7 @@
       "name": "Assorted Meat Diced Plantain",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Indulge Chef Specials"
     },
@@ -1400,7 +1400,7 @@
       "name": "Chinese Fried Rice (Chicken Sauce, Spring Rolls)",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Indulge Chef Specials"
     },
@@ -1409,7 +1409,7 @@
       "name": "Noodles, Chicken, Gizdodo",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Indulge Chef Specials"
     },
@@ -1418,7 +1418,7 @@
       "name": "Special Jollof Rice",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Indulge Chef Specials"
     },
@@ -1436,7 +1436,7 @@
       "name": "Extra Beef",
       "description": "Fine Dining Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Sides"
     },
@@ -1445,7 +1445,7 @@
       "name": "Extra Chicken",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Sides"
     },
@@ -1454,7 +1454,7 @@
       "name": "Extra Fish",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Sides"
     },
@@ -1463,7 +1463,7 @@
       "name": "Extra Shrimp",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Sides"
     },
@@ -1472,7 +1472,7 @@
       "name": "Fried Plantain",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/fried-yam.webp",
       "featured": false,
       "category": "Sides"
     },
@@ -1481,7 +1481,7 @@
       "name": "Coca-Cola",
       "description": "Fine Dining Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Bottled Drinks"
     },
@@ -1490,7 +1490,7 @@
       "name": "Fanta",
       "description": "Fine Dining Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Bottled Drinks"
     },
@@ -1499,7 +1499,7 @@
       "name": "Malta Guinness",
       "description": "Fine Dining Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Bottled Drinks"
     },
@@ -1508,7 +1508,7 @@
       "name": "Maltina Drink",
       "description": "Fine Dining Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Bottled Drinks"
     },
@@ -1517,7 +1517,7 @@
       "name": "Sprite (50cl)",
       "description": "Fine Dining Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Bottled Drinks"
     },
@@ -1526,7 +1526,7 @@
       "name": "Coca-Cola",
       "description": "Fine Dining Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Canned Drinks"
     },
@@ -1535,7 +1535,7 @@
       "name": "Fanta",
       "description": "Fine Dining Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Canned Drinks"
     },
@@ -1544,7 +1544,7 @@
       "name": "Malta Guinness",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Canned Drinks"
     },
@@ -1553,7 +1553,7 @@
       "name": "Maltina Drink",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Canned Drinks"
     },
@@ -1562,7 +1562,7 @@
       "name": "Sprite (50cl)",
       "description": "Fine Dining Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Canned Drinks"
     },
@@ -1571,7 +1571,7 @@
       "name": "Chapman",
       "description": "Fine Dining Menu",
       "price": 5000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Juice (Fresh & Packaged)"
     },
@@ -1580,7 +1580,7 @@
       "name": "Fresh Orange Juice",
       "description": "Fine Dining Menu",
       "price": 5000,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Juice (Fresh & Packaged)"
     },
@@ -1589,7 +1589,7 @@
       "name": "Pineapple Juice",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Juice (Fresh & Packaged)"
     },
@@ -1598,7 +1598,7 @@
       "name": "Watermelon Juice",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/juice.jpg",
       "featured": false,
       "category": "Juice (Fresh & Packaged)"
     },
@@ -1607,7 +1607,7 @@
       "name": "Premium Water (50cl)",
       "description": "Fine Dining Menu",
       "price": 1000,
-      "image_url": "",
+      "image_url": "assets/premium-water.webp",
       "featured": false,
       "category": "Premium Water"
     },
@@ -1616,7 +1616,7 @@
       "name": "Premium Water (75cl)",
       "description": "Fine Dining Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "assets/premium-water.webp",
       "featured": false,
       "category": "Premium Water"
     },
@@ -1625,7 +1625,7 @@
       "name": "Fresh Fruit Juice",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/tigernut.jpg",
       "featured": false,
       "category": "Specialty Drinks"
     },
@@ -1634,7 +1634,7 @@
       "name": "Milkshakes (Chocolate/Vanilla/Strawberry)",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/tigernut.jpg",
       "featured": false,
       "category": "Specialty Drinks"
     },
@@ -1643,7 +1643,7 @@
       "name": "Smoothies (Mixed Fruit)",
       "description": "Fine Dining Menu",
       "price": 6500,
-      "image_url": "",
+      "image_url": "assets/tigernut.jpg",
       "featured": false,
       "category": "Specialty Drinks"
     },
@@ -1652,7 +1652,7 @@
       "name": "Tiger Nut Drink",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/tigernut.jpg",
       "featured": false,
       "category": "Specialty Drinks"
     },
@@ -1661,7 +1661,7 @@
       "name": "Cake Slice",
       "description": "Fine Dining Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "assets/desserts.png",
       "featured": false,
       "category": "Desserts"
     },
@@ -1670,7 +1670,7 @@
       "name": "Chin Chin Bowl",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "assets/desserts.png",
       "featured": false,
       "category": "Desserts"
     },
@@ -1679,7 +1679,7 @@
       "name": "Coconut Candy",
       "description": "Fine Dining Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "assets/desserts.png",
       "featured": false,
       "category": "Desserts"
     },
@@ -1688,7 +1688,7 @@
       "name": "Ice Cream Cup",
       "description": "Fine Dining Menu",
       "price": 5000,
-      "image_url": "",
+      "image_url": "assets/desserts.png",
       "featured": false,
       "category": "Desserts"
     },
@@ -1697,7 +1697,7 @@
       "name": "Chinese Platter (Rice, Noodles, Chicken, Spring Rolls)",
       "description": "Fine Dining Menu",
       "price": 50000,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Platter Options"
     },
@@ -1706,16 +1706,17 @@
       "name": "Premium Party Platter",
       "description": "Fine Dining Menu — listed price range: ₦80,000–₦100,000; confirm final price.",
       "price": null,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
-      "category": "Platter Options"
+      "category": "Platter Options",
+      "price_label": "₦80,000–₦100,000"
     },
     {
       "id": "1e9695ce-f1f6-44f3-b753-a57433e35ff9",
       "name": "Small Chops Platter (Serves 5-10)",
       "description": "Fine Dining Menu",
       "price": 35000,
-      "image_url": "",
+      "image_url": "assets/small-chops.jpg",
       "featured": false,
       "category": "Platter Options"
     },
@@ -1724,7 +1725,7 @@
       "name": "Chicken Corn Soup",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1733,7 +1734,7 @@
       "name": "Chicken Spring Rolls",
       "description": "Fine Dining Menu",
       "price": 7500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1742,7 +1743,7 @@
       "name": "Crispy Fried Wontons",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1751,7 +1752,7 @@
       "name": "Hot & Sour Soup",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1760,7 +1761,7 @@
       "name": "Shrimp Dumplings",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1769,7 +1770,7 @@
       "name": "Sweet & Sour Chicken Bites",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continentals"
     },
@@ -1778,7 +1779,7 @@
       "name": "Beef Chow Mein",
       "description": "Fine Dining Menu",
       "price": 8500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1787,7 +1788,7 @@
       "name": "Chicken Chow Mein",
       "description": "Fine Dining Menu",
       "price": 8500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1796,7 +1797,7 @@
       "name": "Chicken Fried Rice",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1805,7 +1806,7 @@
       "name": "Shrimp Fried Rice",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1814,7 +1815,7 @@
       "name": "Stir-Fried Noodles in Chicken",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1823,7 +1824,7 @@
       "name": "Stir-Fried Noodles in Shrimp",
       "description": "Fine Dining Menu",
       "price": 14500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1832,7 +1833,7 @@
       "name": "Sweet & Sour Chicken",
       "description": "Fine Dining Menu",
       "price": 9500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1841,7 +1842,7 @@
       "name": "Vegetable Fried Rice",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Specials"
     },
@@ -1850,7 +1851,7 @@
       "name": "Chicken Curry Sauce",
       "description": "Fine Dining Menu",
       "price": 12000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Sauces"
     },
@@ -1859,7 +1860,7 @@
       "name": "Fish in Seasonal Veggies",
       "description": "Fine Dining Menu",
       "price": 12500,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Sauces"
     },
@@ -1868,7 +1869,7 @@
       "name": "Prawn and Veggies Sauce",
       "description": "Fine Dining Menu",
       "price": 15000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Sauces"
     },
@@ -1877,9 +1878,18 @@
       "name": "Shredded Beef Chillin Sauce",
       "description": "Fine Dining Menu",
       "price": 10000,
-      "image_url": "",
+      "image_url": "assets/chinese-feast.jpg",
       "featured": false,
       "category": "Continental Sauces"
+    },
+    {
+      "id": "d6d73b2b-4db4-4d93-9f0c-2d66d54d00e1",
+      "name": "Chicken Pepper Soup",
+      "description": "Fine Dining Menu",
+      "price": 5500,
+      "image_url": "assets/pepper-soup.jpg",
+      "featured": false,
+      "category": "Pepper Soup"
     }
   ],
   "categories": [

@@ -23,17 +23,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      - name: Download full-size food photos
+      - name: Download restaurant food photography
         run: |
           mkdir -p public/assets
-          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
-          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://chowdeck.com/store/_next/image?q=75&url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-02-19%2FtFyy4VfgmkVEsol1jf94w.PNG&w=3840" -o public/assets/amala.jpg
-          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
-          curl -fL --retry 3 --connect-timeout 20 --max-time 90 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
-          test -s public/assets/plantain-porridge.jpg
-          test -s public/assets/amala.jpg
-          test -s public/assets/small-chops.jpg
-          test -s public/assets/spring-rolls.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://eatnaija.store/wp-content/uploads/2026/01/A-colorful-spread-of-Nigerian-rice-dishes-800x445.png" -o public/assets/rice-spread.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://menu.myqrcodemenu.com/files/categories/de467247-a1b3-4e8e-a54d-bcf94c41983809bc6056-2c9b-400b-9ac9-84787dd7d62d.png" -o public/assets/pasta-spread.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://cdn.shopify.com/s/files/1/0618/7643/7079/files/Egusi_Soup.png?v=1762426628" -o public/assets/egusi-soup.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://d1w7312wesee68.cloudfront.net/OWbc6bfNadpwM02FNmncy7DAe1N8NDGWp-UY0-_9X6o/resize%3Afit%3A720%3A720/plain/s3%3A/toasttab/restaurants/restaurant-196920000000000000/menu/items/6/item-1100000007916842736_1764718854.png" -o public/assets/pepper-soup.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://cdn.foodaciously.com/static/recipe/dRoNPQJZFl8vCaB2BpTg/nigerian-yam-porrige-eeaf55a0d0f5aab31dcb4f9ced326a81-1280-q60.jpg" -o public/assets/yam-porridge.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://www.arise-app.com/images/dishes/en/fried-yam-with-stew-fish-and-boiled-egg-672evk.webp" -o public/assets/fried-yam.webp
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://tb-static.uber.com/prod/image-proc/processed_images/5f58146a5e9347512d0500d1948a4bc3/719c6bd2757b08684c0faae44d43159d.jpeg" -o public/assets/grilled-feast.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://www.willflyforfood.net/wp-content/uploads/2021/06/nigerian-food-amala-and-ewedu.jpg.webp" -o public/assets/amala-meal.webp
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://141038821.cdn6.editmysite.com/uploads/1/4/1/0/141038821/EN4R3LEOZOSA2V2NSQFX6UKR.jpeg" -o public/assets/juice.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://static.wixstatic.com/media/8b6712_31ab3038fbc6428d9397c2fecd26741b~mv2.webp/v1/fill/w_1000%2Ch_667%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/8b6712_31ab3038fbc6428d9397c2fecd26741b~mv2.webp" -o public/assets/premium-water.webp
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://static.wixstatic.com/media/2b8d29_eebff39dec9d4459a038e5eab39a956d~mv2.png/v1/fill/w_1000%2Ch_1000%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/2b8d29_eebff39dec9d4459a038e5eab39a956d~mv2.png" -o public/assets/desserts.png
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://tb-static.uber.com/prod/image-proc/processed_images/381704095581dacc71aa1376ffb22964/fb86662148be855d931b37d6c1e5fcbe.jpeg" -o public/assets/chinese-feast.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://nativelandmart.com/cdn/shop/files/Tigernut_Date_Relationship.jpg?v=1741576016&width=1946" -o public/assets/tigernut.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://eatwellabi.com/wp-content/uploads/2021/11/Green-plantain-porridge-12.jpg" -o public/assets/plantain-porridge.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://chowdeck.com/store/_next/image?q=75&url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-02-19%2FtFyy4VfgmkVEsol1jf94w.PNG&w=3840" -o public/assets/amala.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://ellesu.com/wp-content/uploads/2020/10/D40B0820-1.jpg" -o public/assets/small-chops.jpg
+          curl -fL --retry 2 --connect-timeout 15 --max-time 45 "https://www.nigerianfoodtv.com/wp-content/uploads/2022/09/nigerian-spring-roll-recipe-pork-beef-nigerian-spring-roll-homemade-nigerian-spring-rolls-egg-rolls-720x540.jpg" -o public/assets/spring-rolls.jpg
+          for file in rice-spread.jpg pasta-spread.jpg egusi-soup.jpg pepper-soup.jpg yam-porridge.jpg fried-yam.webp grilled-feast.jpg amala-meal.webp juice.jpg premium-water.webp desserts.png chinese-feast.jpg tigernut.jpg plantain-porridge.jpg amala.jpg small-chops.jpg spring-rolls.jpg; do test -s "public/assets/$file"; done
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
