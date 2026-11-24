@@ -275,7 +275,7 @@
       "name": "Beef",
       "description": "Main Restaurant Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "https://www.mydiasporakitchen.com/wp-content/uploads/2017/11/img_1920-768x1024.jpg",
       "featured": false,
       "category": "Proteins"
     },
@@ -284,7 +284,7 @@
       "name": "Beef Skewer",
       "description": "Main Restaurant Menu",
       "price": 1700,
-      "image_url": "",
+      "image_url": "https://cheflolaskitchen.com/wp-content/uploads/2025/07/Suya.jpg",
       "featured": false,
       "category": "Proteins"
     },
@@ -293,7 +293,7 @@
       "name": "Big Chicken",
       "description": "Main Restaurant Menu",
       "price": 5500,
-      "image_url": "",
+      "image_url": "https://food.goglowonline.com/upload/1762934935goglow%20food%20fried%20rice%203.jpeg",
       "featured": false,
       "category": "Proteins"
     },
@@ -302,7 +302,7 @@
       "name": "Goat Meat",
       "description": "Main Restaurant Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "https://cdn.tasteatlas.com/images/dishes/e5461d36bfb74742bea75379f53eb050.jpg?w=600",
       "featured": false,
       "category": "Proteins"
     },
@@ -311,7 +311,7 @@
       "name": "Hake / Panla Fish (Big)",
       "description": "Main Restaurant Menu",
       "price": 3000,
-      "image_url": "",
+      "image_url": "https://chowdeck.com/store/_next/image?url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2024%2F2024-07-04%2Fkm72AI4p9ENUSsErw1O8R.PNG&w=3840&q=75",
       "featured": false,
       "category": "Proteins"
     },
@@ -320,7 +320,7 @@
       "name": "Hake / Panla Fish (Small)",
       "description": "Main Restaurant Menu",
       "price": 2500,
-      "image_url": "",
+      "image_url": "https://www.9jafoodie.com/wp-content/uploads/2015/08/DSC03658-600x450.jpg",
       "featured": false,
       "category": "Proteins"
     },
@@ -329,7 +329,7 @@
       "name": "Small Chicken",
       "description": "Main Restaurant Menu",
       "price": 2500,
-      "image_url": "",
+      "image_url": "https://chowdeck.com/store/_next/image?url=https%3A%2F%2Ffiles.chowdeck.com%2Ffit-in%2F1200x675%2Fimages%2F2025%2F2025-02-16%2F2xiQSeDb7qoLCBJ1mcwKc.png&w=3840&q=75",
       "featured": false,
       "category": "Proteins"
     },
@@ -338,7 +338,7 @@
       "name": "Small Turkey",
       "description": "Main Restaurant Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "https://www.9jafoodie.com/wp-content/uploads/2015/02/DSC08663_2-600x398.jpg",
       "featured": false,
       "category": "Proteins"
     },
@@ -347,7 +347,7 @@
       "name": "Amala",
       "description": "Main Restaurant Menu",
       "price": 1200,
-      "image_url": "",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1577518527474754&get_thumbnail=1",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -356,7 +356,7 @@
       "name": "Boiled Plantain",
       "description": "Main Restaurant Menu",
       "price": 1500,
-      "image_url": "",
+      "image_url": "https://www.foodnify.com/wp-content/uploads/2024/09/plantain-eggsauces.jpg",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -365,7 +365,7 @@
       "name": "Boiled Yam",
       "description": "Main Restaurant Menu",
       "price": 1500,
-      "image_url": "",
+      "image_url": "https://mynigerianfood.co.uk/system/photos/336/large/boiled_yam_and_egg.JPG",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -374,7 +374,7 @@
       "name": "Coleslaw",
       "description": "Main Restaurant Menu",
       "price": 1000,
-      "image_url": "",
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2025/04/ET5B2975.jpeg",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -383,7 +383,7 @@
       "name": "Diced Plantain",
       "description": "Main Restaurant Menu",
       "price": 1000,
-      "image_url": "",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1509470382594028",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -392,7 +392,7 @@
       "name": "Eba",
       "description": "Main Restaurant Menu",
       "price": 1000,
-      "image_url": "",
+      "image_url": "https://www.myactivekitchen.com/wp-content/uploads/2015/03/how-to-make-eba-food-nigerian-eba-img9.jpg",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -401,7 +401,7 @@
       "name": "Potato",
       "description": "Main Restaurant Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/477a5b5aaa1c4557bf888a03ef48574d/BFV43144_TastyStoryRamadan.jpg?resize=1200%3A%2A",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -410,7 +410,7 @@
       "name": "Poundo Yam",
       "description": "Main Restaurant Menu",
       "price": 1500,
-      "image_url": "",
+      "image_url": "https://www.mydiasporakitchen.com/wp-content/uploads/2019/06/savingpng.png",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -419,7 +419,7 @@
       "name": "Semolina",
       "description": "Main Restaurant Menu",
       "price": 1200,
-      "image_url": "",
+      "image_url": "https://www.crowncfm.com/_next/image?url=%2Fassets%2Ftenants%2Fcrown-cfm%2Fhero%2Fsupreme-hero-bg.jpg&w=3840&q=75",
       "featured": false,
       "category": "Swallows & Sides"
     },
@@ -428,7 +428,7 @@
       "name": "Beans & Plantain Porridge",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://www.thepretendchef.com/wp-content/uploads/2017/11/nigerian-beans-porridge-1-7.jpg",
       "featured": false,
       "category": "Porridge & Local Specialties"
     },
@@ -437,7 +437,7 @@
       "name": "Plantain Porridge",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://eleanorsdish.com/wp-content/uploads/2022/12/Vegan-Plantain-Porridge-Recipe-Plant-Based-Nigerian-Dish-2-scaled.jpg",
       "featured": false,
       "category": "Porridge & Local Specialties"
     },
@@ -446,7 +446,7 @@
       "name": "Sweet Potato Porridge",
       "description": "Main Restaurant Menu",
       "price": 1250,
-      "image_url": "",
+      "image_url": "https://nkechiajaeroh.com/wp-content/uploads/2018/12/Sweet-potato-Porridge-recipe-main-photo-1-320x180.jpg",
       "featured": false,
       "category": "Porridge & Local Specialties"
     },
@@ -455,7 +455,7 @@
       "name": "Yamarita",
       "description": "Main Restaurant Menu",
       "price": 2000,
-      "image_url": "",
+      "image_url": "https://allnigerianfoods.com/wp-content/uploads/Yamarita-recipe.jpg",
       "featured": false,
       "category": "Porridge & Local Specialties"
     },
@@ -464,7 +464,7 @@
       "name": "Boiled Egg",
       "description": "Main Restaurant Menu",
       "price": 500,
-      "image_url": "",
+      "image_url": "https://bustopbistro.ng/wp-content/uploads/2020/04/19-Boiled-egg.jpg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -473,7 +473,7 @@
       "name": "Pancakes",
       "description": "Main Restaurant Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "https://www.myactivekitchen.com/wp-content/uploads/2015/08/Nigerian-pancake-image_600x900-4-e1554678152855.jpeg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -482,7 +482,7 @@
       "name": "Puff Puff",
       "description": "Main Restaurant Menu",
       "price": 1000,
-      "image_url": "",
+      "image_url": "https://simshomekitchen.com/wp-content/uploads/2023/01/puffpuff-nigerian.jpg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -491,7 +491,7 @@
       "name": "Samosa",
       "description": "Main Restaurant Menu",
       "price": 500,
-      "image_url": "",
+      "image_url": "https://www.myactivekitchen.com/wp-content/uploads/2016/03/samosa.jpg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -500,7 +500,7 @@
       "name": "Shawarma",
       "description": "Main Restaurant Menu",
       "price": 4500,
-      "image_url": "",
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2025/06/D20FA594-9EDC-4D79-AC45-38221B9E5A98.jpeg",
       "featured": false,
       "category": "Small Chops, Snacks & Breakfast"
     },
@@ -545,7 +545,7 @@
       "name": "Puff Puff",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "https://simshomekitchen.com/wp-content/uploads/2023/01/puffpuff-nigerian.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },
@@ -554,7 +554,7 @@
       "name": "Samosa",
       "description": "Fine Dining Menu",
       "price": 8000,
-      "image_url": "",
+      "image_url": "https://www.myactivekitchen.com/wp-content/uploads/2016/03/samosa.jpg",
       "featured": false,
       "category": "Starters & Appetizers"
     },
@@ -1427,7 +1427,7 @@
       "name": "Coleslaw",
       "description": "Fine Dining Menu",
       "price": 3500,
-      "image_url": "",
+      "image_url": "https://kikifoodies.com/wp-content/uploads/2025/04/ET5B2975.jpeg",
       "featured": false,
       "category": "Sides"
     },
